@@ -42,7 +42,7 @@ testing:
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputSdmxJson_UnitedNationsApi
+  - class: InputSdmxMl_UnitedNationsApi
     reference_area: 404
   # - class: InputCsvData
   #   # This describes the data files, relative to the "src_dir" indicated above.
