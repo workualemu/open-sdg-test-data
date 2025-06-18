@@ -57,12 +57,9 @@ src_dir: ''
 #     # need to change this setting. It is intended for sites where the data needs
 #     # to be "built" before being processed by sdg-build.
 #     git_data_dir: data
-  
-inputs:
-  - class: InputSdmxMl_UnitedNationsApi
-    reference_area: 404
-    dimension_query:
-      REPORTING_TYPE: N
+ inputs:
+  - class: InputSdmxMl_Structure
+    source: https://data.un.org/ws/rest/data/IAEG-SDGs,DF_SDG_GLH/...231...........?startPeriod=2000&endPeriod=2022
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
 
