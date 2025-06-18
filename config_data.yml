@@ -3,23 +3,18 @@
 # which are helpers for implementations of Open SDG. This file allows easy use
 # of those functions without altering Python code.
 
-# The following should be changed according to the hosting environment. In the most
-# common environment, Github Pages, you would need to set this according to the name
-# of this repository, after a preceding slash. Eg: /my-repository-name
-docs_baseurl: /sdg-senegal
-
 # Languages
 # ---------
 # This tells sdg-build to perform "translated builds" for each of the specified
 # languages. Each build is in its own subfolder - one for each language.
 languages:
   - en
+  - es
 
 # Destination directory
 # ---------------------
 # This identifies a directory to hold the "built" files. The default is '_site'.
-# Here we use '_build' to avoid conflicting with Jekyll, which uses '_site'.
-site_dir: _build
+site_dir: _site
 
 # Schema file
 # -----------
@@ -43,34 +38,32 @@ src_dir: ''
 # Each item must have a "class" which corresponds to classes in the sdg/inputs
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
-# inputs:
-#   - class: InputCsvData
-#     # This describes the data files, relative to the "src_dir" indicated above.
-#     path_pattern: data/*-*.csv
-#   - class: InputYamlMeta
-#     path_pattern: indicator-config/*-*.yml
-#     git: false
-#   - class: InputYamlMeta
-#     # This describes the meta files, relative to the "src_dir" indicated above.
-#     path_pattern: meta/*-*.yml
-#     # This specifies whether or not to use Git to calculate the "last updated"
-#     # dates for data files.
-#     git: true
-#     # This specifies an alternate folder to look in for Git-versioned data files,
-#     # when calculating the "last updated" dates for data files. This defaults to
-#     # "data" (the folder where the data files actually exist.) Most sites will not
-#     # need to change this setting. It is intended for sites where the data needs
-#     # to be "built" before being processed by sdg-build.
-#     git_data_dir: data
-#   - class: InputSdmxMeta
-#     meta_suffix: __GLOBAL
-
 inputs:
-  - class: InputSdmxMl_UnitedNationsApi
-    reference_area: 686
+  - class: InputCsvData
+    # This describes the data files, relative to the "src_dir" indicated above.
+    path_pattern: data/*-*.csv
+  - class: InputYamlMeta
+    path_pattern: indicator-config/*-*.yml
+    git: false
+  - class: InputYamlMeta
+    # This describes the meta files, relative to the "src_dir" indicated above.
+    path_pattern: meta/*-*.yml
+    # This specifies whether or not to use Git to calculate the "last updated"
+    # dates for data files.
+    git: true
+    # This specifies an alternate folder to look in for Git-versioned data files,
+    # when calculating the "last updated" dates for data files. This defaults to
+    # "data" (the folder where the data files actually exist.) Most sites will not
+    # need to change this setting. It is intended for sites where the data needs
+    # to be "built" before being processed by sdg-build.
+    git_data_dir: data
   - class: InputSdmxMeta
     meta_suffix: __GLOBAL
-
+# inputs:
+#   - class: InputSdmxMl_UnitedNationsApi
+#     reference_area: 404
+#   - class: InputSdmxMeta
+#     meta_suffix: __GLOBAL
 
 # Translations
 # ------------
@@ -87,9 +80,8 @@ translations:
     source: https://github.com/open-sdg/sdg-translations.git
     tag: 2.3.0
   # This pulls in translations from a local 'translations' folder.
-  # - class: TranslationInputYaml
-  #   source: translations
-
+  - class: TranslationInputYaml
+    source: translations
 
 # Reporting status extra fields
 # -----------------------------
@@ -122,7 +114,30 @@ docs_branding: SDG data build documentation
 docs_intro: This is a list of examples of endpoints and output that are
   available on this service. Click each of the links below for more information
   on the available output.
-docs_subfolder: data-docs
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
 #docs_indicator_url: https://my-github-org/my-site-repository/[id]
+# This can be uncommented to show translation columns in the disaggregation report.
+#docs_translate_disaggregations: true
+# This can be uncommented to show additional columns in the disaggregation report.
+# This is mainly intended to show units of measurement and series, which are not
+# normally considered "disaggregation".
+# docs_extra_disaggregations: ['Units', 'Series']
+
+# This controls the metadata report which is part of the automatic documentation.
+# More info can be found at https://open-sdg.readthedocs.io/en/latest/data-configuration/#docs_metadata_fields
+docs_metadata_fields:
+    - key: reporting_status
+      label: Reporting status
+    - key: SDG_CUSTODIAN_AGENCIES__GLOBAL
+      label: UN custodian agency
+    - key: data_non_statistical
+      label: Non-statistical
+    - key: data_show_map
+      label: Show map
+    - key: national_geographical_coverage
+      label: Geographical coverage
+    - key: computation_units
+      label: Units
+    - key: graph_type
+      label: Graph type
