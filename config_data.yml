@@ -62,8 +62,8 @@ src_dir: ''
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
     reference_area: 231
-  - class: InputSdmxMeta
-    meta_suffix: __GLOBAL
+    dimension_query:
+      REPORTING_TYPE: N
 
 # Translations
 # ------------
