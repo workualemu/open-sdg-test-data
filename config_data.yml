@@ -57,13 +57,14 @@ src_dir: ''
 #     # need to change this setting. It is intended for sites where the data needs
 #     # to be "built" before being processed by sdg-build.
 #     git_data_dir: data
-#   - class: InputSdmxMeta
-#     meta_suffix: __GLOBAL
+  
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
-    reference_area: 231
+    reference_area: 404
     dimension_query:
       REPORTING_TYPE: N
+  - class: InputSdmxMeta
+    meta_suffix: __GLOBAL
 
 # Translations
 # ------------
