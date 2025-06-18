@@ -41,11 +41,9 @@ testing:
 # Each item must have a "class" which corresponds to classes in the sdg/inputs
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
-inputs:
-  - class: InputSdmxMl_UnitedNationsApi
-    reference_area: 404
-    dimension_query: 
-      REPORTING_TYPE: N
+inputs: 
+  - class: InputSdmxMl_Structure 
+    source: https://data.un.org/ws/rest/data/IAEG-SDGs,DF_SDG_GLH/...231...........?startPeriod=2000&endPeriod=2022
   # - class: InputCsvData
   #   # This describes the data files, relative to the "src_dir" indicated above.
   #   path_pattern: data/*-*.csv
