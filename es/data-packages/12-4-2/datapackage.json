@@ -12,8 +12,176 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",
+                "Kenya National Bureau of Statistics",
+                "UNEP / WESR",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Electronic waste generated, per capita (Kg) [12.4.2]",
+                "Electronic waste generated (Tonnes) [12.4.2]",
+                "Hazardous waste generated, per unit of GDP [12.4.2]",
+                "Hazardous waste generated (Tonnes) [12.4.2]",
+                "Hazardous waste generated, per capita (Kg) [12.4.2]",
+                "Hazardous waste treated and by type of treatment (Tonnes) [12.4.2]",
+                "Proportion of hazardous waste treated or disposed (%) [12.4.2]",
+                "Hazardous waste treated or disposed (Tonnes) [12.4.2]",
+                "Municipal waste collected (Tonnes) [12.4.2]",
+                "Municipal waste generated (Tonnes) [12.4.2]",
+                "Municipal waste treated by type of treatment (Tonnes) [12.4.2]",
+                "Total waste generation, by activity (Tonnes) [12.4.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Waste treatment: Incineration",
+                "Waste treatment: Landfilling",
+                "Waste treatment: Other type of waste management",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mining and quarrying",
+                "Manufacturing",
+                "Electricity, gas, steam and air conditioning supply",
+                "Construction",
+                ""
+              ]
+            },
+            "title": "Economic activity"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kilograms",
+                "Metric Tons",
+                "Kilograms per constant USD",
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estimated",
+                "Country Data",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UN Statistics Division, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files) - UNSD/UNEP Questionnaire",
+                "Kenya National Bureau of Statistics",
+                "UNEP / WESR",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Source: Census of Industrial Production, 2017.",
+                "Source: Census of Industrial Production, 2017. Includes all methods of disposal captured during the CIP data collection.",
+                "Source: Census of Industrial Production, 2017. Excludes amount recycled.",
+                "Data is for the Capital City only, Nairobi.",
+                "Data for the Counties with the Three Cities in The Country; Nairobi, Mombasa and Kisumu",
+                "Data refers to solid waste.Source: Census of Industrial Production, 2017.",
+                "Source: Census of Industrial Production, 2017.Environmental Statistics Report for Iraq for the year 2013 / Source: Ministry of Municipalities and Public Works and the Municipality of Baghdad (except for the Kurdistan Region).",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Source: Census of Industrial Production, 2017.",
+                "Source: Census of Industrial Production, 2017. Includes all methods of disposal captured during the CIP data collection.",
+                "Source: Census of Industrial Production, 2017. Excludes amount recycled.",
+                "Data for the Counties with the Three Cities in The Country; Nairobi, Mombasa and Kisumu",
+                "Data refers to solid waste.Source: Census of Industrial Production, 2017.",
+                "Source: Census of Industrial Production, 2017.Environmental Statistics Report for Iraq for the year 2013 / Source: Ministry of Municipalities and Public Works and the Municipality of Baghdad (except for the Kurdistan Region).",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "BASE_PER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2015",
+                ""
+              ]
+            },
+            "title": "BASE_PER"
+          },
+          {
+            "name": "Base period",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2015",
+                ""
+              ]
+            },
+            "title": "Base period"
           },
           {
             "name": "Value",

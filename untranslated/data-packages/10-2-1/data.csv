@@ -1,1 +1,8 @@
-Year,Value
+Year,COMMENT_OBS,Value
+1992,Based on data from WMS-I. Estimated from grouped consumption data. ,22
+1994,Based on data from WMS-II. Estimated from unit-record consumption data. ,18
+1997,Based on data from WMS-III. Estimated from unit-record consumption data. ,16
+2005,Based on data from IHBS. Estimated from unit-record consumption data. ,17
+2015,Based on data from IHBS. Estimated from unit-record consumption data. ,14
+2020,Based on data from KCHS. Estimated from unit-record consumption data. ,10
+2021,Based on data from KCHS. Estimated from unit-record consumption data. ,9

@@ -1,1 +1,22 @@
-Year,Value
+Year,OBS_STATUS,Economic activity,COMMENT_OBS,Observation-level footnotes,Value
+2000,A,Manufacturing (ISIC3 D),,,9.5
+2001,A,Manufacturing (ISIC3 D),,,10.78
+2002,A,Manufacturing (ISIC3 D),,,10.54
+2003,A,Manufacturing (ISIC3 D),,,11.27
+2004,A,Manufacturing (ISIC3 D),,,11.78
+2005,A,Manufacturing (ISIC3 D),,,9.64
+2006,A,Manufacturing (ISIC3 D),,,9.36
+2007,A,Manufacturing (ISIC3 D),,,8.47
+2008,A,Manufacturing (ISIC3 D),,,7.93
+2009,B,Manufacturing,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,9.59
+2010,A,Manufacturing,,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,8.43
+2011,A,Manufacturing,,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,8.73
+2012,A,Manufacturing,,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,11.0
+2013,A,Manufacturing,,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,10.44
+2014,A,Manufacturing,,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,11.23
+2015,A,Manufacturing,,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,12.8
+2016,A,Manufacturing,,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,12.96
+2017,A,Manufacturing,,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,12.77
+2018,A,Manufacturing,,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,12.71
+2019,A,Manufacturing,,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,12.93
+2020,A,Manufacturing,,Data reporting transitioned from ISIC Revision 3 to ISIC Revision 4,13.8

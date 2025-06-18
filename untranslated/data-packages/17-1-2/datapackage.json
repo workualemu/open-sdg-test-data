@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Budgetary Central Government Sector",
+                "General Government Sector",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,12 +12,27 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Based on data from WMS-I. Estimated from grouped consumption data. ",
+                "Based on data from WMS-II. Estimated from unit-record consumption data. ",
+                "Based on data from WMS-III. Estimated from unit-record consumption data. ",
+                "Based on data from IHBS. Estimated from unit-record consumption data. ",
+                "Based on data from KCHS. Estimated from unit-record consumption data. ",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

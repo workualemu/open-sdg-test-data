@@ -12,7 +12,183 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                "E",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenya MICS 2000 (GEMR). Data extracted on 25 February 2025.",
+                "Kenya DHS 2003. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above. Data extracted on 25 February 2025.",
+                "Kenya DHS 2008-09. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above. Data extracted on 25 February 2025.",
+                "Kenya Population and Housing Census 2009. IPUMS-International, National Bureau of Statistics. Data extracted on 25 February 2025.",
+                "Kenya DHS 2014. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "Kenya Continuous Household Survey Programme (KCHSP) 2019. The survey collected data on school attendance and attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "Kenya Continuous Household Survey Programme (KCHSP) 2020. The survey collected data on school attendance and attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "Kenya  DHS 2022.  The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "KENYA NATIONAL BUREAU OF STATISTICS",
+                "UIS based on KOR - LFS - Economically Active Popul - Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None. Reference period: not specified Data extracted on 25 February 2025.",
+                "UIS based on UIS based on KEN - HIES - Household Budget Survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
+                "UIS based on UIS based on KEN - HS - Continuous household survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
+                "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
+                "Assessments for Minimum Proficiency Levels (AMPL). Grade 7 Data extracted on 25 February 2025.",
+                "Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 25 February 2025.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Adjusted gender parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
+                "Adjusted location parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
+                "Adjusted wealth parity index for completion rate, by sex, location, wealth quintile and education level [4.5.1]",
+                "Gender parity index for youth/adults with information and communications technology (ICT) skills [4.5.1]",
+                "Adjusted gender parity index for participation rate in formal and non-formal education and training (ratio) [4.5.1]",
+                "Adjusted gender parity index for participation rate in organized learning (one year before the official primary entry age), (ratio) [4.5.1]",
+                "Adjusted gender parity index for the proportion of teachers with the minimum required qualifications, by education level (ratio) [4.5.1]",
+                "Adjusted gender parity index for achieving a minimum proficiency level in reading and mathematics (ratio) [4.5.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 to 24 years old",
+                "15 to 64 years old",
+                "25 to 54 years old",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Income or wealth quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
+                "Secondary education (lower and upper secondary education)",
+                "Pre-primary education",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ICT skill: Reading or downloading on-line newspapers, magazines, or electronic books",
+                "ICT skill: Purchasing or ordering goods or services using the Internet",
+                "ICT skill: Using Internet banking",
+                "ICT skill: Participating in social networks",
+                "Skill: Mathematics",
+                "Skill: Reading",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Country Data",
+                "Estimated",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenya  DHS 2022.  The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "KENYA NATIONAL BUREAU OF STATISTICS",
+                "UIS based on UIS based on KEN - HS - Continuous household survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
+                "SOURCE: UIS Education Survey Data extracted on 25 February 2025.",
+                "Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 25 February 2025.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "This data point is NOT APPLICABLE for the submitting nation.",
+                "Aged 3 and older. Target population is 15 years and above (3 and above for other indicators)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "This data point is NOT APPLICABLE for the submitting nation.",
+                "Aged 3 and older. Target population is 15 years and above (3 and above for other indicators)",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

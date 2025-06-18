@@ -1,1 +1,27 @@
-Year,Value
+Year,NATURE,SDG Series,Unit of measure,Nature of data points,Value
+2000,C,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant) [16.a.1]",Number,Country Data,0
+2005,C,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant) [16.a.1]",Number,Country Data,2
+2010,C,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant) [16.a.1]",Number,Country Data,2
+2015,C,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant) [16.a.1]",Number,Country Data,2
+2016,C,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant) [16.a.1]",Number,Country Data,2
+2017,C,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant) [16.a.1]",Number,Country Data,2
+2018,C,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant) [16.a.1]",Number,Country Data,2
+2019,C,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant) [16.a.1]",Number,Country Data,2
+2020,C,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant) [16.a.1]",Number,Country Data,2
+2021,C,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant) [16.a.1]",Number,Country Data,2
+2022,C,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant) [16.a.1]",Number,Country Data,2
+2023,C,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant) [16.a.1]",Number,Country Data,2
+2024,C,"Countries with National Human Rights Institutions in compliance with the Paris Principles (0 = No status; 1 = Status B, partially compliant; 2 = Status A, fully compliant) [16.a.1]",Number,Country Data,2
+2000,G,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1],Percent,Global monitoring data,0
+2005,G,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1],Percent,Global monitoring data,100
+2010,G,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1],Percent,Global monitoring data,100
+2015,G,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1],Percent,Global monitoring data,100
+2016,G,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1],Percent,Global monitoring data,100
+2017,G,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1],Percent,Global monitoring data,100
+2018,G,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1],Percent,Global monitoring data,100
+2019,G,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1],Percent,Global monitoring data,100
+2020,G,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1],Percent,Global monitoring data,100
+2021,G,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1],Percent,Global monitoring data,100
+2022,G,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1],Percent,Global monitoring data,100
+2023,G,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1],Percent,Global monitoring data,100
+2024,G,Proportion of countries with independent National Human Rights Institutions in compliance with the Paris Principles (%) [16.a.1],Percent,Global monitoring data,100

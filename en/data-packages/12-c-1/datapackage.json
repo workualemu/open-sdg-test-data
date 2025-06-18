@@ -12,8 +12,74 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "9",
+                "0",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",
+                "UNEP / WESR",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fossil-fuel subsidies (consumption and production) [12.c.1]",
+                "Fossil-fuel subsidies (consumption and production) as a proportion of total GDP [12.c.1]",
+                "Fossil-fuel subsidies (consumption and production) per capita [12.c.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "USD",
+                "Percent",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IEA fossil fuel subsidies database, OECD.Stat- Inventory of Support Measures for Fossil Fuels and IMF Energy Subsidies Template (pre-tax calculations)",
+                "UNEP / WESR",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",

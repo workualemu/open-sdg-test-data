@@ -12,7 +12,64 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "G",
+                "E",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Bank Development Data Group",
+                "Open Data Inventory (ODIN) 2022/2023",
+                "Open Data Inventory (ODIN) 2024/2025",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1]",
+                "Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1]",
+                "Open Data Inventory (ODIN) Coverage Index [17.18.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global monitoring data",
+                "Estimated",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Bank Development Data Group",
+                "Open Data Inventory (ODIN) 2024/2025",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

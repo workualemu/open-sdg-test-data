@@ -12,7 +12,191 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "D",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "C",
+                "E",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",
+                "Kenya Marine and Fisheries Research Institute",
+                "World Environment Situation Room",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Beach litter originating from national land-based sources that ends in the beach (%) [14.1.1]",
+                "Beach litter originating from national land-based sources that ends in the beach (Tonnes) [14.1.1]",
+                "Exported beach litter originating from national land-based sources (Tonnes) [14.1.1]",
+                "Beach litter originating from national land-based sources that ends in the ocean (%) [14.1.1]",
+                "Beach litter originating from national land-based sources that ends in the ocean (Tonnes) [14.1.1]",
+                "Beach litter items per unit of surface area [14.1.1]",
+                "Chlorophyll-a anomaly, remote sensing (%) [14.1.1]",
+                "Chlorophyll-a deviations, remote sensing  [14.1.1]",
+                "Floating plastic debris density (count per km2) [14.1.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Custom Breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Custom code 104",
+                "Custom code 116",
+                "Custom code 144",
+                "Custom code 156",
+                "Custom code 175",
+                "Custom code 232",
+                "Custom code 262",
+                "Custom code 356",
+                "Custom code 36",
+                "Custom code 360",
+                "Custom code 364",
+                "Custom code 404",
+                "Custom code 450",
+                "Custom code 458",
+                "Custom code 480",
+                "Custom code 50",
+                "Custom code 508",
+                "Custom code 512",
+                "Custom code 586",
+                "Custom code 608",
+                "Custom code 626",
+                "Custom code 638",
+                "Custom code 682",
+                "Custom code 704",
+                "Custom code 706",
+                "Custom code 710",
+                "Custom code 729",
+                "Custom code 764",
+                "Custom code 834",
+                "Custom code 887",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Frequency of Chlorophyll-a concentration: Extreme",
+                "Frequency of Chlorophyll-a concentration: High",
+                "Frequency of Chlorophyll-a concentration: Moderate",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Metric Tons",
+                "Number of items per 100 square meters",
+                "Number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Modeled",
+                "Country Data",
+                "Estimated",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global Model for Monitoring Marine Litter, Center for Ocean-Atmospheric Prediction Studies (COAPS)",
+                "Kenya Marine and Fisheries Research Institute",
+                "World Environment Situation Room",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Label for custom breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Myanmar",
+                "Cambodia",
+                "Sri Lanka",
+                "China",
+                "Mayotte",
+                "Eritrea",
+                "Djibouti",
+                "India",
+                "Australia",
+                "Indonesia",
+                "Iran (Islamic Republic of)",
+                "Kenya",
+                "Madagascar",
+                "Malaysia",
+                "Mauritius",
+                "Bangladesh",
+                "Mozambique",
+                "Oman",
+                "Pakistan",
+                "Philippines",
+                "Timor-Leste",
+                "Réunion",
+                "Saudi Arabia",
+                "Viet Nam",
+                "Somalia",
+                "South Africa",
+                "Sudan",
+                "Thailand",
+                "United Republic of Tanzania",
+                "Yemen",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

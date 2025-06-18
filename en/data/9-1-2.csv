@@ -1,1 +1,27 @@
-Year,Value
+Year,NATURE,SOURCE_DETAIL,SDG Series,Composite breakdown,Unit of measure,Nature of data points,Source details,Value
+2017,C,ICAO,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Tonne kilometres,Country Data,ICAO,275512277
+2018,C,ICAO,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Tonne kilometres,Country Data,ICAO,295047760
+2019,C,ICAO,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Tonne kilometres,Country Data,ICAO,320952555
+2020,C,ICAO,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Tonne kilometres,Country Data,ICAO,113062820
+2021,C,ICAO,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Tonne kilometres,Country Data,ICAO,299587420
+2022,C,ICAO,Freight volume (tonne kilometres) [9.1.2],Mode of Transport: Air,Tonne kilometres,Country Data,ICAO,288621200
+2017,C,ICAO,Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Air,Passenger kilometres,Country Data,ICAO,11053154941
+2018,C,ICAO,Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Air,Passenger kilometres,Country Data,ICAO,11811427976
+2019,C,ICAO,Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Air,Passenger kilometres,Country Data,ICAO,12480408392
+2020,C,ICAO,Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Air,Passenger kilometres,Country Data,ICAO,3416984640
+2021,C,ICAO,Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Air,Passenger kilometres,Country Data,ICAO,3616693650
+2022,C,ICAO,Passenger volume (passenger kilometres) [9.1.2],Mode of Transport: Air,Passenger kilometres,Country Data,ICAO,11363842064
+2010,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,695600
+2011,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,771000
+2012,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,903443
+2013,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,894000
+2014,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,1012002
+2015,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,1076118
+2016,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,1091000
+2017,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,1190000
+2018,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,1306283
+2019,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,1417000
+2020,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,1359579
+2021,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,1435565
+2022,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,1430000
+2023,G,UNCTADstat. Data compiled by UNCTAD.,Container port traffic (twenty-foot equivalent units - TEUs) [9.1.2],Mode of Transport: Maritime,Twenty-foot equivalent units (TEUs),Global monitoring data,UNCTADstat. Data compiled by UNCTAD.,1623080

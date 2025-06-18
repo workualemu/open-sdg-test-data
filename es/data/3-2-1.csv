@@ -1,1 +1,289 @@
-Year,Value
+Year,SDG Series,Sex,Age,Unit of measure,Value
+2000,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",63.8
+2001,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",61.2
+2002,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",58.3
+2003,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",55.5
+2004,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",52.5
+2005,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",49.4
+2006,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",46.9
+2007,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",44.9
+2008,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",42.4
+2009,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",41.9
+2010,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",41.4
+2011,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",41.1
+2012,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",41.3
+2013,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",40.9
+2014,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",40.1
+2015,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",39.1
+2016,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",38.7
+2017,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",38.5
+2018,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",37.8
+2019,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",37.2
+2020,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",36.9
+2021,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",36.4
+2022,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",35.8
+2023,Infant mortality rate [3.2.1],,under 1 year old,"Per 1,000 live births",34.7
+2000,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",57.8
+2001,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",55.3
+2002,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",52.6
+2003,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",49.9
+2004,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",47.1
+2005,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",44.2
+2006,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",41.8
+2007,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",40.0
+2008,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",37.7
+2009,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",37.2
+2010,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",36.8
+2011,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",36.5
+2012,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",36.7
+2013,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",36.4
+2014,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",35.7
+2015,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",34.8
+2016,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",34.4
+2017,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",34.3
+2018,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",33.7
+2019,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",33.1
+2020,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",32.9
+2021,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",32.4
+2022,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",31.9
+2023,Infant mortality rate [3.2.1],Female,under 1 year old,"Per 1,000 live births",30.9
+2000,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",69.5
+2001,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",66.7
+2002,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",63.8
+2003,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",60.7
+2004,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",57.7
+2005,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",54.4
+2006,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",51.6
+2007,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",49.5
+2008,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",46.9
+2009,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",46.4
+2010,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",45.9
+2011,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",45.4
+2012,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",45.6
+2013,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",45.2
+2014,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",44.3
+2015,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",43.1
+2016,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",42.6
+2017,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",42.5
+2018,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",41.7
+2019,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",41.1
+2020,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",40.7
+2021,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",40.1
+2022,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",39.5
+2023,Infant mortality rate [3.2.1],Male,under 1 year old,"Per 1,000 live births",38.3
+2000,Infant deaths (number) [3.2.1],,under 1 year old,Number,76768.0
+2001,Infant deaths (number) [3.2.1],,under 1 year old,Number,75808.0
+2002,Infant deaths (number) [3.2.1],,under 1 year old,Number,74339.0
+2003,Infant deaths (number) [3.2.1],,under 1 year old,Number,72258.0
+2004,Infant deaths (number) [3.2.1],,under 1 year old,Number,69905.0
+2005,Infant deaths (number) [3.2.1],,under 1 year old,Number,67257.0
+2006,Infant deaths (number) [3.2.1],,under 1 year old,Number,65304.0
+2007,Infant deaths (number) [3.2.1],,under 1 year old,Number,64138.0
+2008,Infant deaths (number) [3.2.1],,under 1 year old,Number,61936.0
+2009,Infant deaths (number) [3.2.1],,under 1 year old,Number,62162.0
+2010,Infant deaths (number) [3.2.1],,under 1 year old,Number,61953.0
+2011,Infant deaths (number) [3.2.1],,under 1 year old,Number,61280.0
+2012,Infant deaths (number) [3.2.1],,under 1 year old,Number,60939.0
+2013,Infant deaths (number) [3.2.1],,under 1 year old,Number,59583.0
+2014,Infant deaths (number) [3.2.1],,under 1 year old,Number,58020.0
+2015,Infant deaths (number) [3.2.1],,under 1 year old,Number,56441.0
+2016,Infant deaths (number) [3.2.1],,under 1 year old,Number,55862.0
+2017,Infant deaths (number) [3.2.1],,under 1 year old,Number,55673.0
+2018,Infant deaths (number) [3.2.1],,under 1 year old,Number,54725.0
+2019,Infant deaths (number) [3.2.1],,under 1 year old,Number,53717.0
+2020,Infant deaths (number) [3.2.1],,under 1 year old,Number,53095.0
+2021,Infant deaths (number) [3.2.1],,under 1 year old,Number,52765.0
+2022,Infant deaths (number) [3.2.1],,under 1 year old,Number,52477.0
+2023,Infant deaths (number) [3.2.1],,under 1 year old,Number,51498.0
+2000,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,34554.0
+2001,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,34036.0
+2002,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,33288.0
+2003,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,32297.0
+2004,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,31142.0
+2005,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,29862.0
+2006,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,28955.0
+2007,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,28383.0
+2008,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,27338.0
+2009,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,27406.0
+2010,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,27301.0
+2011,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,27029.0
+2012,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,26877.0
+2013,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,26284.0
+2014,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,25605.0
+2015,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,24935.0
+2016,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,24686.0
+2017,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,24579.0
+2018,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,24165.0
+2019,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,23710.0
+2020,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,23449.0
+2021,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,23294.0
+2022,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,23174.0
+2023,Infant deaths (number) [3.2.1],Female,under 1 year old,Number,22729.0
+2000,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,42214.0
+2001,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,41772.0
+2002,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,41051.0
+2003,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,39961.0
+2004,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,38763.0
+2005,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,37395.0
+2006,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,36349.0
+2007,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,35755.0
+2008,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,34598.0
+2009,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,34756.0
+2010,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,34652.0
+2011,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,34251.0
+2012,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,34062.0
+2013,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,33299.0
+2014,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,32415.0
+2015,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,31506.0
+2016,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,31176.0
+2017,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,31094.0
+2018,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,30560.0
+2019,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,30007.0
+2020,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,29646.0
+2021,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,29471.0
+2022,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,29303.0
+2023,Infant deaths (number) [3.2.1],Male,under 1 year old,Number,28769.0
+2000,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",96.3
+2001,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",91.6
+2002,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",86.6
+2003,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",81.6
+2004,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",76.6
+2005,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",71.5
+2006,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",67.1
+2007,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",63.2
+2008,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",58.2
+2009,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",55.4
+2010,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",53.5
+2011,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",52.2
+2012,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",51.2
+2013,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",50.0
+2014,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",48.8
+2015,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",47.4
+2016,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",46.0
+2017,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",45.3
+2018,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",44.3
+2019,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",43.3
+2020,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",42.8
+2021,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",41.9
+2022,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",41.1
+2023,Under-five mortality rate [3.2.1],,under 5 years old,"Per 1,000 live births",39.9
+2000,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",90.0
+2001,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",85.2
+2002,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",80.3
+2003,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",75.4
+2004,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",70.6
+2005,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",65.6
+2006,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",61.4
+2007,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",57.6
+2008,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",52.9
+2009,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",50.1
+2010,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",48.3
+2011,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",47.1
+2012,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",46.1
+2013,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",44.9
+2014,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",43.8
+2015,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",42.6
+2016,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",41.3
+2017,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",40.5
+2018,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",39.6
+2019,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",38.7
+2020,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",38.2
+2021,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",37.5
+2022,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",36.7
+2023,Under-five mortality rate [3.2.1],Female,under 5 years old,"Per 1,000 live births",35.6
+2000,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",102.4
+2001,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",97.6
+2002,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",92.6
+2003,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",87.4
+2004,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",82.3
+2005,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",77.1
+2006,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",72.4
+2007,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",68.4
+2008,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",63.3
+2009,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",60.4
+2010,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",58.4
+2011,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",57.1
+2012,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",56.1
+2013,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",54.8
+2014,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",53.5
+2015,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",52.0
+2016,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",50.5
+2017,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",49.8
+2018,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",48.6
+2019,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",47.6
+2020,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",47.1
+2021,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",46.2
+2022,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",45.3
+2023,Under-five mortality rate [3.2.1],Male,under 5 years old,"Per 1,000 live births",44.0
+2000,Under-five deaths (number) [3.2.1],,under 5 years old,Number,113674.0
+2001,Under-five deaths (number) [3.2.1],,under 5 years old,Number,111199.0
+2002,Under-five deaths (number) [3.2.1],,under 5 years old,Number,108051.0
+2003,Under-five deaths (number) [3.2.1],,under 5 years old,Number,104238.0
+2004,Under-five deaths (number) [3.2.1],,under 5 years old,Number,100159.0
+2005,Under-five deaths (number) [3.2.1],,under 5 years old,Number,95739.0
+2006,Under-five deaths (number) [3.2.1],,under 5 years old,Number,91945.0
+2007,Under-five deaths (number) [3.2.1],,under 5 years old,Number,88748.0
+2008,Under-five deaths (number) [3.2.1],,under 5 years old,Number,83650.0
+2009,Under-five deaths (number) [3.2.1],,under 5 years old,Number,81165.0
+2010,Under-five deaths (number) [3.2.1],,under 5 years old,Number,79331.0
+2011,Under-five deaths (number) [3.2.1],,under 5 years old,Number,77675.0
+2012,Under-five deaths (number) [3.2.1],,under 5 years old,Number,75785.0
+2013,Under-five deaths (number) [3.2.1],,under 5 years old,Number,73204.0
+2014,Under-five deaths (number) [3.2.1],,under 5 years old,Number,70893.0
+2015,Under-five deaths (number) [3.2.1],,under 5 years old,Number,68728.0
+2016,Under-five deaths (number) [3.2.1],,under 5 years old,Number,66644.0
+2017,Under-five deaths (number) [3.2.1],,under 5 years old,Number,65516.0
+2018,Under-five deaths (number) [3.2.1],,under 5 years old,Number,64113.0
+2019,Under-five deaths (number) [3.2.1],,under 5 years old,Number,62446.0
+2020,Under-five deaths (number) [3.2.1],,under 5 years old,Number,61641.0
+2021,Under-five deaths (number) [3.2.1],,under 5 years old,Number,60826.0
+2022,Under-five deaths (number) [3.2.1],,under 5 years old,Number,60224.0
+2023,Under-five deaths (number) [3.2.1],,under 5 years old,Number,59036.0
+2000,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,52615.0
+2001,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,51305.0
+2002,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,49692.0
+2003,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,47810.0
+2004,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,45758.0
+2005,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,43590.0
+2006,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,41750.0
+2007,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,40169.0
+2008,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,37675.0
+2009,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,36397.0
+2010,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,35518.0
+2011,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,34735.0
+2012,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,33790.0
+2013,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,32600.0
+2014,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,31568.0
+2015,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,30630.0
+2016,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,29657.0
+2017,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,29087.0
+2018,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,28451.0
+2019,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,27676.0
+2020,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,27316.0
+2021,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,26944.0
+2022,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,26635.0
+2023,Under-five deaths (number) [3.2.1],Female,under 5 years old,Number,26110.0
+2000,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,61059.0
+2001,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,59894.0
+2002,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,58359.0
+2003,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,56428.0
+2004,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,54401.0
+2005,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,52149.0
+2006,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,50195.0
+2007,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,48579.0
+2008,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,45975.0
+2009,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,44768.0
+2010,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,43813.0
+2011,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,42940.0
+2012,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,41995.0
+2013,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,40604.0
+2014,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,39325.0
+2015,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,38098.0
+2016,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,36987.0
+2017,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,36429.0
+2018,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,35662.0
+2019,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,34770.0
+2020,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,34325.0
+2021,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,33882.0
+2022,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,33589.0
+2023,Under-five deaths (number) [3.2.1],Male,under 5 years old,Number,32926.0

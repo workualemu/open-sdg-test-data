@@ -1,1 +1,7 @@
-Year,Value
+Year,OBS_STATUS,NATURE,COMMENT_OBS,SOURCE_DETAIL,Value
+2019,O,_X,NaN = A figure was not provided,NA,NaN
+2020,A,C,Score 1 to 6: lowest to highest evidence,Ministry of Public Service and Gender - Gender Mainstreaming Department,5
+2021,O,_X,NaN = A figure was not provided,NA,NaN
+2022,O,_X,NaN = A figure was not provided,NA,NaN
+2023,O,_X,NaN = A figure was not provided,NA,NaN
+2024,O,_X,NaN = A figure was not provided,NA,NaN

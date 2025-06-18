@@ -12,7 +12,76 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",
+                "National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Health worker density, by type of occupation (per 10,000 population) [3.c.1]",
+                "Health worker distribution, by sex and type of occupation [3.c.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medical doctors",
+                "Nursing and midwifery personnel",
+                "Dentists",
+                "Pharmacists",
+                "Nursing personnel",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 10,000 population",
+                "Percent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National health Workforce Accounts database, WHO.  Available at https://apps.who.int/nhwaportal.",
+                "National health Workforce Accounts, WHO.  Available at https://apps.who.int/nhwaportal.",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

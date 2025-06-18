@@ -12,7 +12,57 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UIS based on KOR - LFS - Economically Active Popul - Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None. Reference period: not specified Data extracted on 25 February 2025.",
+                "UIS based on UIS based on KEN - HIES - Household Budget Survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
+                "UIS based on UIS based on KEN - HS - Continuous household survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
+                "UIS based on KOR - LFS - Economically Active Popul - Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None. Reference period: not specified - Low reliability Data extracted on 25 February 2025.",
+                "UIS based on UIS based on KEN - HIES - Household Budget Survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None - Unreliable - Low reliability Data extracted on 25 February 2025.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 to 24 years old",
+                "15 to 64 years old",
+                "25 to 54 years old",
+                "55 to 64 years old",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UIS based on UIS based on KEN - HS - Continuous household survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None Data extracted on 25 February 2025.",
+                "UIS based on UIS based on KEN - HIES - Household Budget Survey; Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None - Unreliable - Low reliability Data extracted on 25 February 2025.",
+                "UIS based on KOR - LFS - Economically Active Popul - Repository: ILO-STATISTICS - Micro data processing - Age coverage - minimum age: 15 years old - Age coverage - maximum age: None. Reference period: not specified - Low reliability Data extracted on 25 February 2025.",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

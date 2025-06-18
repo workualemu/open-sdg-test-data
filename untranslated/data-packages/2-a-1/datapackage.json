@@ -12,7 +12,75 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mainly UNSD National Accounts estimates. Missing data supplemented by IMF and other sources",
+                "Budgetary Central Government",
+                "consolidated General Government",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNSD national account estimates",
+                "FAO questionnaires combined with secondary sources (IMF. EUROSTAT. CEPAL) where applicable and/or derived from official country publications (e.g. MoF. Stat Yearbook. Central Bank reports. and UNSD national accounts estimates). FAO imputation for missing values.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture value added share of GDP [2.a.1]",
+                "Agriculture orientation index for government expenditures [2.a.1]",
+                "Agriculture share of Government Expenditure [2.a.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Index",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "mainly UNSD National Accounts estimates. Missing data supplemented by IMF and other sources",
+                "consolidated General Government",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "UNSD national account estimates",
+                "FAO questionnaires combined with secondary sources (IMF. EUROSTAT. CEPAL) where applicable and/or derived from official country publications (e.g. MoF. Stat Yearbook. Central Bank reports. and UNSD national accounts estimates). FAO imputation for missing values.",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,133 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data based on the ITU DataHub",
+                "Communications Commission of Kenya (CCK).",
+                "Communications Commission of Kenya",
+                "CCK.",
+                "Communications Authority  of Kenya",
+                "COMMUNICATIONS AUTHORITY OF KENYA",
+                "Communications Commission of Kenya-ITU1",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Fixed broadband subscriptions per 100 inhabitants [17.6.1]",
+                "Fixed broadband subscriptions (number) [17.6.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Internet speed: 256 kbit/s to less than 2 Mbit/s",
+                "Internet speed: 2 Mbit/s to less than 10 Mbit/s",
+                "Internet speed: 10 Mbit/s or above",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Per 100 population",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estimated",
+                "Country Data",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data based on the ITU DataHub",
+                "Communications Authority  of Kenya",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "More fixed-broadband service providers joining the market, expanding the market.",
+                "Subscribers moving to fast and more reliable speeds.",
+                "2022 value reviewed",
+                "This is already taken care of below. 2022 value reviewed",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Decline was due to subscribers switching to wireless technologies.",
+                "Increased fibre connections during the period",
+                "2022 value reviewed",
+                "More fixed-broadband service providers joining the market, expanding the market.",
+                "There has been increased demand for higher broadband speeds",
+                "Subscribers moving to fast and more reliable speeds.",
+                "The increase is as a result of increased roll out of fibre in the country",
+                "*Data is collected for speeds = or above 2Mbps",
+                "included in i4213_2to10",
+                "this speeds are already covered under the indicator above and the one below",
+                "This is already taken care of below. 2022 value reviewed",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

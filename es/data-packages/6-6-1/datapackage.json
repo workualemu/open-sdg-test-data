@@ -12,12 +12,165 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "B",
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019)",
+                "Represent 1996 proxy",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global Surface Water Explorer extraction for UN Environment Programme",
+                "Ramsar National Report COP14",
+                "Environment Live",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lakes and rivers permanent water area change (%) [6.6.1]",
+                "Lakes and rivers permanent water area (square kilometres) [6.6.1]",
+                "Lakes and rivers permanent water area (% of total land area) [6.6.1]",
+                "Lakes and rivers seasonal water area change (%) [6.6.1]",
+                "Lakes and rivers seasonal water area (square kilometres) [6.6.1]",
+                "Lakes and rivers seasonal water area (% of total land area) [6.6.1]",
+                "Lake water quality turbidity (%) [6.6.1]",
+                "Lake water quality trophic state (%) [6.6.1]",
+                "Reservoir minimum water area change (%) [6.6.1]",
+                "Reservoir minimum water area (square kilometres) [6.6.1]",
+                "Reservoir minimum water area (% of total land area) [6.6.1]",
+                "Reservoir maximum water area (square kilometres) [6.6.1]",
+                "Reservoir maximum water area (% of total land area) [6.6.1]",
+                "Change in minimum river flow (%) [6.6.1]",
+                "River flow minimum (m3/s) [6.6.1]",
+                "Change in maximum river flow (%) [6.6.1]",
+                "River flow maximum (m3/s) [6.6.1]",
+                "Extent of inland wetlands (square kilometres) [6.6.1]",
+                "Mangrove total area change (%) [6.6.1]",
+                "Mangrove area (square kilometres) [6.6.1]",
+                "Nationally derived quantity of groundwater (millions of cubic metres per annum) [6.6.1]",
+                "Nationally derived quantity of rivers (million of cubic metres per annum) [6.6.1]",
+                "Wetlands area (square kilometres) [6.6.1]",
+                "Wetlands area (% of total land area) [6.6.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Deviation Level: Extreme (75-100%)",
+                "Deviation Level: High (50-75%)",
+                "Deviation Level: Low (0-25%)",
+                "Deviation Level: Medium (25-50%)",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Square kilometers",
+                "cubic meters per second (m3/s)",
+                "Million of cubic metres per annum",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estimated",
+                "Country Data",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Extent area change calculated using the median spatial extent for the new baseline reference period (2000-2019)",
+                "Represent 1996 proxy",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global Surface Water Explorer extraction for UN Environment Programme",
+                "Ramsar National Report COP14",
+                "Environment Live",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

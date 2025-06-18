@@ -16,20 +16,157 @@
             "title": "Año"
           },
           {
-            "name": "Group",
+            "name": "BASE_PER",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                "B",
+                "2017",
                 ""
               ]
             },
-            "title": "Group"
+            "title": "BASE_PER"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "G",
+                "M",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Accessed September 19, 2024. Based on data from WMS-I. Estimated from grouped consumption data. ",
+                "Accessed September 19, 2024. Based on data from WMS-II. Estimated from unit-record consumption data. ",
+                "Accessed September 19, 2024. Based on data from WMS-III. Estimated from unit-record consumption data. ",
+                "Accessed September 19, 2024. Based on data from IHBS. Estimated from unit-record consumption data. ",
+                "Accessed September 19, 2024. Based on data from KCHS. Estimated from unit-record consumption data. ",
+                "Accessed September 19, 2024. Survey name: IHBS. Uses a consumption aggregate, which is not spatially deflated.",
+                "Accessed September 19, 2024. Survey name: KCHS. Uses a consumption aggregate, which is not spatially deflated.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poverty and Inequality Portal, World Bank",
+                "ILO modelled estimates, Nov. 2024",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population below international poverty line [1.1.1]",
+                "Employed population below international poverty line [1.1.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "65 years old and over",
+                "under 15 years old",
+                "15 to 64 years old",
+                "15 years old and over",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "Base period",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2017",
+                ""
+              ]
+            },
+            "title": "Base period"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Global monitoring data",
+                "Modeled",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Accessed September 19, 2024. Based on data from KCHS. Estimated from unit-record consumption data. ",
+                "Accessed September 19, 2024. Survey name: KCHS. Uses a consumption aggregate, which is not spatially deflated.",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Poverty and Inequality Portal, World Bank",
+                "ILO modelled estimates, Nov. 2024",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

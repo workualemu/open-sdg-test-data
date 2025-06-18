@@ -12,12 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Type of OFDI scheme: Direct capital participation",
+                "Type of OFDI scheme: Fiscal/financial support",
+                "Type of OFDI scheme: Investment facilitation services",
+                "Type of OFDI scheme: Investment guarantees",
+                ""
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

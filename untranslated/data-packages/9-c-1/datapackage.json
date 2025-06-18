@@ -12,11 +12,80 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                "E",
+                "_X",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data based on the ITU DataHub",
+                "Communication Commission of Kenya",
+                "Communications Commission of Kenya",
+                "Communications Commission of Kenya-ITU1",
+                "Communications Authority  of Kenya",
+                "COMMUNICATIONS AUTHORITY OF KENYA",
+                "ITU estimate",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of population covered by at least a 2G mobile network [9.c.1]",
+                "Proportion of population covered by at least a 3G mobile network [9.c.1]",
+                "Proportion of population covered by at least a 4G mobile network [9.c.1]",
+                "Proportion of population covered by at least a 5G mobile network [9.c.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5G mobile network was rolled out during the year and the population coverage remains below 0.0%",
+                "2G Population coverage is 95.4",
+                "ITU estimate",
+                "Roll out of 5G active sites in major cities and towns in the country.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "5G mobile network was rolled out during the year and the population coverage remains below 0.0%",
+                "ITU estimate",
+                "2G Population coverage is 95.4",
+                "Data not available",
+                "5G mobile network was rolled out during the year and the population coverage remains below 1%",
+                "Roll out of 5G active sites in major cities and towns in the country.",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

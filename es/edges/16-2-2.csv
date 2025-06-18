@@ -1,1 +1,8 @@
 From,To
+NATURE,COMMENT_OBS
+COMMENT_OBS,SDG Series
+SDG Series,Unit of measure
+Observation-level footnotes,Sex
+Observation-level footnotes,Age
+Unit of measure,Nature of data points
+Nature of data points,Observation-level footnotes

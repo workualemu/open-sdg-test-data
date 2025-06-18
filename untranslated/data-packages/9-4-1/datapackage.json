@@ -12,7 +12,100 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6",
+                "0",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",
+                "UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Carbon dioxide emissions from fuel combustion [9.4.1]",
+                "Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant United States dollars) [9.4.1]",
+                "Carbon dioxide emissions from manufacturing industries per unit of manufacturing value added (kilogrammes of CO2 per constant United States dollars) [9.4.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Economic activity",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing excl. coke and refined petroleum products and repair and installation of machinery and equipment",
+                "Manufacturing",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Metric Tons",
+                "Kilograms per constant USD",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/statistics",
+                "UNIDO National Accounts Database. Available at https://stat.unido.org. IEA (2024), Greenhouse gas emissions from energy. https://www.iea.org/data-and-statistics",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "BASE_PER",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2021",
+                "2015",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Base period",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "2021",
+                "2015",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

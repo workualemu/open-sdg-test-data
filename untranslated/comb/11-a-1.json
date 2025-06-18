@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2020,2023],"COMMENT_OBS":["UN-Habitat Global Survey on National Urban Policies 2018 & 2020","UN-Habitat/OECD Global Survey on National Urban Policies 2023"],"SOURCE_DETAIL":["NUP 2020 Status","NUP 2023 Status"],"Value":[1,1]},"edges":{"From":["COMMENT_OBS"],"To":["SOURCE_DETAIL"]}}

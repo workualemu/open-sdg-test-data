@@ -12,7 +12,19 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Animals and derived products according to CITES",
+                "Plants and derived products according to CITES",
+                "Plants and animals and derived products according to CITES",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

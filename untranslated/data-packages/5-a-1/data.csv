@@ -1,1 +1,61 @@
-Year,Value
+Year,OBS_STATUS,NATURE,COMMENT_OBS,SOURCE_DETAIL,SDG Series,Sex,Value
+2009,O,_X,NaN = A figure was not provided,NA,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,NaN
+2010,O,_X,NaN = A figure was not provided,NA,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,NaN
+2011,O,_X,NaN = A figure was not provided,NA,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,NaN
+2012,O,_X,NaN = A figure was not provided,NA,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,NaN
+2013,O,_X,NaN = A figure was not provided,NA,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,NaN
+2014,E,E,Agricultural households have at least one working-age adult self-employed in agriculture. An individual owns agricultural land if they're part of such a household and own land themselves or jointly with others. and if the household owns land used for agriculture.,Demographic and Health Survey,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,31.79
+2015,O,_X,NaN = A figure was not provided,NA,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,NaN
+2016,O,_X,NaN = A figure was not provided,NA,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,NaN
+2017,O,_X,NaN = A figure was not provided,NA,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,NaN
+2018,O,_X,NaN = A figure was not provided,NA,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,NaN
+2019,O,_X,NaN = A figure was not provided,NA,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,NaN
+2020,O,_X,NaN = A figure was not provided,NA,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,NaN
+2021,O,_X,NaN = A figure was not provided,NA,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,NaN
+2022,E,E,Agricultural households have at least one working-age adult self-employed in agriculture. An individual owns agricultural land if they're part of such a household and own land themselves or jointly with others. and if the household owns land used for agriculture.,Demographic and Health Survey,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,54.46
+2023,O,_X,NaN = A figure was not provided,NA,"Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",,NaN
+2009,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,NaN
+2010,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,NaN
+2011,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,NaN
+2012,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,NaN
+2013,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,NaN
+2014,E,E,Agricultural households have at least one working-age adult self-employed in agriculture. An individual owns agricultural land if they're part of such a household and own land themselves or jointly with others. and if the household owns land used for agriculture,Demographic and Health Survey,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,57.01
+2015,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,NaN
+2016,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,NaN
+2017,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,NaN
+2018,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,NaN
+2019,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,NaN
+2020,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,NaN
+2021,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,NaN
+2022,E,E,Agricultural households have at least one working-age adult self-employed in agriculture. An individual owns agricultural land if they're part of such a household and own land themselves or jointly with others. and if the household owns land used for agriculture,Demographic and Health Survey,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,46.84
+2023,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],,NaN
+2009,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,NaN
+2010,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,NaN
+2011,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,NaN
+2012,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,NaN
+2013,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,NaN
+2014,E,E,Agricultural households have at least one working-age adult self-employed in agriculture. An individual owns agricultural land if they're part of such a household and own land themselves or jointly with others. and if the household owns land used for agriculture,Demographic and Health Survey,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,56.64
+2015,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,NaN
+2016,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,NaN
+2017,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,NaN
+2018,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,NaN
+2019,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,NaN
+2020,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,NaN
+2021,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,NaN
+2022,E,E,Agricultural households have at least one working-age adult self-employed in agriculture. An individual owns agricultural land if they're part of such a household and own land themselves or jointly with others. and if the household owns land used for agriculture,Demographic and Health Survey,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,45.32
+2023,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Female,NaN
+2009,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,NaN
+2010,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,NaN
+2011,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,NaN
+2012,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,NaN
+2013,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,NaN
+2014,E,E,Agricultural households have at least one working-age adult self-employed in agriculture. An individual owns agricultural land if they're part of such a household and own land themselves or jointly with others. and if the household owns land used for agriculture,Demographic and Health Survey,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,57.19
+2015,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,NaN
+2016,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,NaN
+2017,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,NaN
+2018,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,NaN
+2019,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,NaN
+2020,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,NaN
+2021,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,NaN
+2022,E,E,Agricultural households have at least one working-age adult self-employed in agriculture. An individual owns agricultural land if they're part of such a household and own land themselves or jointly with others. and if the household owns land used for agriculture,Demographic and Health Survey,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,48.79
+2023,O,_X,NaN = A figure was not provided,NA,Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1],Male,NaN

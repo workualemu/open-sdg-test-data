@@ -1,1 +1,8 @@
-Year,Value
+Year,OBS_STATUS,NATURE,SOURCE_DETAIL,COMMENT_OBS,Value
+2011,A,CA,Official country reported data (UNSD and OECD national accounts). FAO Yearbook of Fishery Statistics and Review of the State of World Marine Fishery Resources.,,0.02
+2013,A,CA,Official country reported data (UNSD and OECD national accounts). FAO Yearbook of Fishery Statistics and Review of the State of World Marine Fishery Resources.,,0.02
+2015,A,CA,Official country reported data (UNSD and OECD national accounts). FAO Yearbook of Fishery Statistics and Review of the State of World Marine Fishery Resources.,,0.02
+2017,A,CA,Official country reported data (UNSD and OECD national accounts). FAO Yearbook of Fishery Statistics and Review of the State of World Marine Fishery Resources.,,0.05
+2018,O,_X,NA,NaN = A figure was not provided,NaN
+2019,A,CA,Official country reported data (UNSD and OECD national accounts). FAO Yearbook of Fishery Statistics and Review of the State of World Marine Fishery Resources.,,0.06
+2021,A,CA,Official country reported data (UNSD and OECD national accounts). FAO Yearbook of Fishery Statistics and Review of the State of World Marine Fishery Resources.,,0.07

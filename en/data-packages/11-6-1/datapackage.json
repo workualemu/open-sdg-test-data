@@ -12,8 +12,87 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                "E",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Bank (2018). What A Waste Global Database, 2018 Edition (Refers to data collected over the period 2010-2020)",
+                "Waste Wise Cities Tool (WaCT) Survey, United Nations Human Settlements Programme (UN-Habitat)",
+                "United Nations Human Settlements Programme (UN-Habitat)",
+                "UNSD, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files). (Date of last update: 16 May 2023).",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Custom Breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Custom code 01",
+                "Custom code 02",
+                "Custom code 06",
+                "Custom code 07",
+                ""
+              ]
+            },
+            "title": "Custom Breakdown"
+          },
+          {
+            "name": "Label for custom breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eldoret",
+                "Kiambu",
+                "Mombasa",
+                "Nairobi",
+                ""
+              ]
+            },
+            "title": "Label for custom breakdown"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Country Data",
+                "Estimated",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "World Bank (2018). What A Waste Global Database, 2018 Edition (Refers to data collected over the period 2010-2020)",
+                "Waste Wise Cities Tool (WaCT) Survey, United Nations Human Settlements Programme (UN-Habitat)",
+                "UNSD, Country Files from the UNSD/UNEP data collection on environment statistics (available at: https://unstats.un.org/unsd/envstats/country_files). (Date of last update: 16 May 2023).",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",

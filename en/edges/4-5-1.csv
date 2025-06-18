@@ -1,1 +1,13 @@
 From,To
+NATURE,SOURCE_DETAIL
+SOURCE_DETAIL,SDG Series
+SDG Series,Nature of data points
+Education level,Sex
+Source details,Age
+Education level,Degree of urbanisation
+Education level,Income or wealth quantile
+Source details,Education level
+Source details,Composite breakdown
+Nature of data points,Source details
+Source details,Observation-level footnotes
+Observation-level footnotes,COMMENT_OBS

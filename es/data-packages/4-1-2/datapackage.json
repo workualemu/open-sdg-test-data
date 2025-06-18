@@ -12,8 +12,100 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenya MICS 2000 (GEMR). Data extracted on 25 February 2025.",
+                "Kenya DHS 2003. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above. Data extracted on 25 February 2025.",
+                "Kenya DHS 2008-09. The survey collected data on school attendance for age 4-24 and educational attainment for age 4 and above. Data extracted on 25 February 2025.",
+                "Kenya Population and Housing Census 2009. IPUMS-International, National Bureau of Statistics. Data extracted on 25 February 2025.",
+                "Kenya DHS 2014. The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "Kenya Continuous Household Survey Programme (KCHSP) 2019. The survey collected data on school attendance and attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "Kenya Continuous Household Survey Programme (KCHSP) 2020. The survey collected data on school attendance and attainment for age 3 and above. Data extracted on 25 February 2025.",
+                "Kenya  DHS 2022.  The survey collected data on school attendance for age 3-24 and educational attainment for age 3 and above. Data extracted on 25 February 2025.",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "Income or wealth quantile",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Quintile 1 (poorest)",
+                "Quintile 2",
+                "Quintile 3",
+                "Quintile 4",
+                "Quintile 5 (richest)",
+                ""
+              ]
+            },
+            "title": "Income or wealth quantile"
+          },
+          {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary education",
+                "Lower secondary education",
+                "Upper secondary education",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "This data point is NOT APPLICABLE for the submitting nation.",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "This data point is NOT APPLICABLE for the submitting nation.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

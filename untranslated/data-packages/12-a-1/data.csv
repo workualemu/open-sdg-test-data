@@ -1,1 +1,169 @@
-Year,Value
+Year,Composite breakdown,Value
+2000,,25.35051
+2001,,24.56788
+2002,,23.89888
+2003,,23.17279
+2004,,24.48131
+2005,,23.74487
+2006,,23.03227
+2007,,22.34699
+2008,,23.21458
+2009,,24.15953
+2010,,24.84088
+2011,,24.16418
+2012,,24.78319
+2013,,24.44518
+2014,,27.60044
+2015,,33.1338
+2016,,33.83757
+2017,,33.96431
+2018,,41.00091
+2019,,40.72373
+2020,,43.99685
+2021,,46.44641
+2022,,49.03073
+2023,,49.43779
+2000,Type of renewable technology: Bioenergy,1.09324
+2001,Type of renewable technology: Bioenergy,1.05948
+2002,Type of renewable technology: Bioenergy,1.11861
+2003,Type of renewable technology: Bioenergy,1.08462
+2004,Type of renewable technology: Bioenergy,1.05147
+2005,Type of renewable technology: Bioenergy,1.01965
+2006,Type of renewable technology: Bioenergy,0.98905
+2007,Type of renewable technology: Bioenergy,0.95961
+2008,Type of renewable technology: Bioenergy,0.93097
+2009,Type of renewable technology: Bioenergy,1.37346
+2010,Type of renewable technology: Bioenergy,1.33428
+2011,Type of renewable technology: Bioenergy,1.29808
+2012,Type of renewable technology: Bioenergy,1.26466
+2013,Type of renewable technology: Bioenergy,1.23378
+2014,Type of renewable technology: Bioenergy,1.20526
+2015,Type of renewable technology: Bioenergy,1.23818
+2016,Type of renewable technology: Bioenergy,1.75124
+2017,Type of renewable technology: Bioenergy,1.73187
+2018,Type of renewable technology: Bioenergy,1.74684
+2019,Type of renewable technology: Bioenergy,1.71287
+2020,Type of renewable technology: Bioenergy,1.89025
+2021,Type of renewable technology: Bioenergy,1.85467
+2022,Type of renewable technology: Bioenergy,1.81927
+2023,Type of renewable technology: Bioenergy,1.78355
+2000,Type of renewable technology: Geothermal energy,1.89277
+2001,Type of renewable technology: Geothermal energy,1.83433
+2002,Type of renewable technology: Geothermal energy,1.77752
+2003,Type of renewable technology: Geothermal energy,1.72351
+2004,Type of renewable technology: Geothermal energy,3.68733
+2005,Type of renewable technology: Geothermal energy,3.57577
+2006,Type of renewable technology: Geothermal energy,3.46846
+2007,Type of renewable technology: Geothermal energy,3.3652
+2008,Type of renewable technology: Geothermal energy,3.26478
+2009,Type of renewable technology: Geothermal energy,4.03377
+2010,Type of renewable technology: Geothermal energy,4.75978
+2011,Type of renewable technology: Geothermal energy,4.63066
+2012,Type of renewable technology: Geothermal energy,4.68234
+2013,Type of renewable technology: Geothermal energy,4.56801
+2014,Type of renewable technology: Geothermal energy,7.94981
+2015,Type of renewable technology: Geothermal energy,13.14333
+2016,Type of renewable technology: Geothermal energy,13.56261
+2017,Type of renewable technology: Geothermal energy,13.67745
+2018,Type of renewable technology: Geothermal energy,13.61959
+2019,Type of renewable technology: Geothermal energy,13.35473
+2020,Type of renewable technology: Geothermal energy,16.52899
+2021,Type of renewable technology: Geothermal energy,16.21784
+2022,Type of renewable technology: Geothermal energy,17.49414
+2023,Type of renewable technology: Geothermal energy,17.78312
+2000,Type of renewable technology: Hydropower,22.35145
+2001,Type of renewable technology: Hydropower,21.66142
+2002,Type of renewable technology: Hydropower,20.9905
+2003,Type of renewable technology: Hydropower,20.35277
+2004,Type of renewable technology: Hydropower,19.73099
+2005,Type of renewable technology: Hydropower,19.13822
+2006,Type of renewable technology: Hydropower,18.56386
+2007,Type of renewable technology: Hydropower,18.01143
+2008,Type of renewable technology: Hydropower,19.00445
+2009,Type of renewable technology: Hydropower,18.73783
+2010,Type of renewable technology: Hydropower,18.60629
+2011,Type of renewable technology: Hydropower,18.07116
+2012,Type of renewable technology: Hydropower,18.63127
+2013,Type of renewable technology: Hydropower,18.35417
+2014,Type of renewable technology: Hydropower,17.97625
+2015,Type of renewable technology: Hydropower,17.5591
+2016,Type of renewable technology: Hydropower,17.2488
+2017,Type of renewable technology: Hydropower,17.10372
+2018,Type of renewable technology: Hydropower,16.83991
+2019,Type of renewable technology: Hydropower,16.63402
+2020,Type of renewable technology: Hydropower,16.3503
+2021,Type of renewable technology: Hydropower,16.11949
+2022,Type of renewable technology: Hydropower,15.82105
+2023,Type of renewable technology: Hydropower,15.52487
+2000,Type of renewable technology: Marine energy,0.0
+2001,Type of renewable technology: Marine energy,0.0
+2002,Type of renewable technology: Marine energy,0.0
+2003,Type of renewable technology: Marine energy,0.0
+2004,Type of renewable technology: Marine energy,0.0
+2005,Type of renewable technology: Marine energy,0.0
+2006,Type of renewable technology: Marine energy,0.0
+2007,Type of renewable technology: Marine energy,0.0
+2008,Type of renewable technology: Marine energy,0.0
+2009,Type of renewable technology: Marine energy,0.0
+2010,Type of renewable technology: Marine energy,0.0
+2011,Type of renewable technology: Marine energy,0.0
+2012,Type of renewable technology: Marine energy,0.0
+2013,Type of renewable technology: Marine energy,0.0
+2014,Type of renewable technology: Marine energy,0.0
+2015,Type of renewable technology: Marine energy,0.0
+2016,Type of renewable technology: Marine energy,0.0
+2017,Type of renewable technology: Marine energy,0.0
+2018,Type of renewable technology: Marine energy,0.0
+2019,Type of renewable technology: Marine energy,0.0
+2020,Type of renewable technology: Marine energy,0.0
+2021,Type of renewable technology: Marine energy,0.0
+2022,Type of renewable technology: Marine energy,0.0
+2023,Type of renewable technology: Marine energy,0.0
+2000,Type of renewable technology: Solar energy,0.0
+2001,Type of renewable technology: Solar energy,0.0
+2002,Type of renewable technology: Solar energy,0.0
+2003,Type of renewable technology: Solar energy,0.0
+2004,Type of renewable technology: Solar energy,0.0
+2005,Type of renewable technology: Solar energy,6e-05
+2006,Type of renewable technology: Solar energy,5e-05
+2007,Type of renewable technology: Solar energy,0.00024
+2008,Type of renewable technology: Solar energy,0.00418
+2009,Type of renewable technology: Solar energy,0.00458
+2010,Type of renewable technology: Solar energy,0.00471
+2011,Type of renewable technology: Solar energy,0.03213
+2012,Type of renewable technology: Solar energy,0.07617
+2013,Type of renewable technology: Solar energy,0.16363
+2014,Type of renewable technology: Solar energy,0.3421
+2015,Type of renewable technology: Solar energy,0.63892
+2016,Type of renewable technology: Solar energy,0.73274
+2017,Type of renewable technology: Solar energy,0.91852
+2018,Type of renewable technology: Solar energy,2.1003
+2019,Type of renewable technology: Solar energy,2.45801
+2020,Type of renewable technology: Solar energy,2.79074
+2021,Type of renewable technology: Solar energy,4.05998
+2022,Type of renewable technology: Solar energy,5.85793
+2023,Type of renewable technology: Solar energy,6.46573
+2000,Type of renewable technology: Wind energy,0.01305
+2001,Type of renewable technology: Wind energy,0.01265
+2002,Type of renewable technology: Wind energy,0.01226
+2003,Type of renewable technology: Wind energy,0.01189
+2004,Type of renewable technology: Wind energy,0.01152
+2005,Type of renewable technology: Wind energy,0.01117
+2006,Type of renewable technology: Wind energy,0.01084
+2007,Type of renewable technology: Wind energy,0.01052
+2008,Type of renewable technology: Wind energy,0.0102
+2009,Type of renewable technology: Wind energy,0.0099
+2010,Type of renewable technology: Wind energy,0.13582
+2011,Type of renewable technology: Wind energy,0.13214
+2012,Type of renewable technology: Wind energy,0.12874
+2013,Type of renewable technology: Wind energy,0.12559
+2014,Type of renewable technology: Wind energy,0.12703
+2015,Type of renewable technology: Wind energy,0.55428
+2016,Type of renewable technology: Wind energy,0.54217
+2017,Type of renewable technology: Wind energy,0.53275
+2018,Type of renewable technology: Wind energy,6.69427
+2019,Type of renewable technology: Wind energy,6.56409
+2020,Type of renewable technology: Wind energy,6.43656
+2021,Type of renewable technology: Wind energy,8.19442
+2022,Type of renewable technology: Wind energy,8.03835
+2023,Type of renewable technology: Wind energy,7.88052

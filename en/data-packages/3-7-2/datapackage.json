@@ -12,8 +12,48 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CA",
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenya 2008-2009 Demographic and Health Survey",
+                "Kenya 2003 Demographic and Health Survey",
+                "Kenya 2014 Demographic and Health Survey",
+                "Kenya 2015 Malaria Indicators Survey",
+                "Registration National Statistics & WPP2024",
+                "Kenya 2020 Malaria Indicators Survey",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "10 to 14 years old",
+                "15 to 19 years old",
+                ""
+              ]
+            },
+            "title": "Age"
           },
           {
             "name": "Value",

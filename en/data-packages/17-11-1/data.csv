@@ -1,1 +1,97 @@
-Year,Value
+Year,OBS_STATUS,NATURE,SDG Series,Observation status,Nature of data points,Value
+2000,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.026883
+2001,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.031391
+2002,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.03257
+2003,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.031785
+2004,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.029116
+2005,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.032533
+2006,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.028854
+2007,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.029084
+2008,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.030927
+2009,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.035489
+2010,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.033794
+2011,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.031397
+2012,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.033111
+2013,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.030906
+2014,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.032162
+2015,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.035653
+2016,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.035482
+2017,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.032402
+2018,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.030957
+2019,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.030717
+2020,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.034186
+2021,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.030218
+2022,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.029773
+2023,A,CA,Developing countries’ and least developed countries’ share of global merchandise exports [17.11.1],Normal value,Country Adjusted,0.030197
+2000,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.065269
+2001,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.073446
+2002,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.064484
+2003,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.063148
+2004,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.067606
+2005,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.069837
+2006,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.080039
+2007,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.08074
+2008,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.079697
+2009,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.078804
+2010,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.094373
+2011,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.092012
+2012,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.107983
+2013,E,E,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.104572
+2014,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.095361
+2015,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.092028
+2016,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.081435
+2017,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.083336
+2018,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.089012
+2019,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.088091
+2020,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.069491
+2021,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.079508
+2022,A,CA,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.088141
+2023,E,E,Developing countries’ and least developed countries’ share of global services exports [17.11.1],Estimated value,Estimated,0.068782
+2000,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.046679
+2001,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.049797
+2002,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.048706
+2003,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.047891
+2004,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.048041
+2005,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.054145
+2006,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.058426
+2007,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.063039
+2008,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.067369
+2009,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.079997
+2010,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.078353
+2011,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.080141
+2012,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.087267
+2013,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.086211
+2014,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.096461
+2015,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.096216
+2016,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.087069
+2017,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.092875
+2018,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.087732
+2019,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.091375
+2020,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.086366
+2021,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.086622
+2022,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.082498
+2023,A,CA,Developing countries’ and least developed countries’ share of global merchandise imports [17.11.1],Normal value,Country Adjusted,0.076625
+2000,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.047302
+2001,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.052687
+2002,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.043643
+2003,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.037076
+2004,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.042139
+2005,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.043781
+2006,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.047812
+2007,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.048216
+2008,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.048425
+2009,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.051512
+2010,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.053613
+2011,E,E,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.051489
+2012,E,E,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.056843
+2013,E,E,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.059127
+2014,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.064524
+2015,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.067237
+2016,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.054995
+2017,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.057401
+2018,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.0661
+2019,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.063321
+2020,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.066433
+2021,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.068887
+2022,A,CA,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.078692
+2023,E,E,Developing countries’ and least developed countries’ share of global services imports [17.11.1],Estimated value,Estimated,0.065029

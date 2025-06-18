@@ -12,12 +12,116 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                "_X",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data in reference to one country but derived from different types of sources should not be compared between them.",
+                "NaN = Value omitted for confidentiality reasons. Data in reference to one country but derived from different types of sources should not be compared between them.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Detected victims of human trafficking (number) [16.2.2]",
+                "Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",
+                "Detected victims of human trafficking for forced labour, servitude and slavery, by age and sex (per 100,000 population) [16.2.2]",
+                "Detected victims of human trafficking for removal of organ (number) [16.2.2]",
+                "Detected victims of human trafficking for removal of organ, by age and sex (per 100,000 population) [16.2.2]",
+                "Detected victims of human trafficking for other purposes (number) [16.2.2]",
+                "Detected victims of human trafficking for other purposes, by age and sex (per 100,000 population) [16.2.2]",
+                "Detected victims of human trafficking, by age and sex (per 100,000 population) [16.2.2]",
+                "Detected victims of human trafficking for sexual exploitation, by age and sex (number) [16.2.2]",
+                "Detected victims of human trafficking for sexual exploitation, by age and sex (per 100,000 population) [16.2.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "18 years old and over",
+                "under 18 years old",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number",
+                "Per 100,000 population",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Country Data",
+                "Not Available",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data in reference to one country but derived from different types of sources should not be compared between them.",
+                "NaN = Value omitted for confidentiality reasons. Data in reference to one country but derived from different types of sources should not be compared between them.",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

@@ -1,1 +1,17 @@
-Year,Value
+Year,SOURCE_DETAIL,SDG Series,Composite breakdown,Unit of measure,Value
+2019,Food Waste Index Report 2021,Food waste [12.3.1],,Metric Tons,7430796.993
+2022,Food Waste Index Report 2024,Food waste [12.3.1],,Metric Tons,6625897.23
+2019,Food Waste Index Report 2021,Food waste [12.3.1],Food Waste Sector: Households,Metric Tons,5217366.844
+2022,Food Waste Index Report 2024,Food waste [12.3.1],Food Waste Sector: Households,Metric Tons,4351167.687
+2019,Food Waste Index Report 2021,Food waste [12.3.1],Food Waste Sector: Out-of-home consumption,Metric Tons,1637019.642
+2022,Food Waste Index Report 2024,Food waste [12.3.1],Food Waste Sector: Out-of-home consumption,Metric Tons,1682355.751
+2019,Food Waste Index Report 2021,Food waste [12.3.1],Food Waste Sector: Retail,Metric Tons,576410.5081
+2022,Food Waste Index Report 2024,Food waste [12.3.1],Food Waste Sector: Retail,Metric Tons,592373.7922
+2019,Food Waste Index Report 2021,Food waste per capita [12.3.1],,Kilograms,145.84074
+2022,Food Waste Index Report 2024,Food waste per capita [12.3.1],,Kilograms,122.63937
+2019,Food Waste Index Report 2021,Food waste per capita [12.3.1],Food Waste Sector: Households,Kilograms,102.39879
+2022,Food Waste Index Report 2024,Food waste per capita [12.3.1],Food Waste Sector: Households,Kilograms,80.53618
+2019,Food Waste Index Report 2021,Food waste per capita [12.3.1],Food Waste Sector: Out-of-home consumption,Kilograms,32.12901
+2022,Food Waste Index Report 2024,Food waste per capita [12.3.1],Food Waste Sector: Out-of-home consumption,Kilograms,31.13889
+2019,Food Waste Index Report 2021,Food waste per capita [12.3.1],Food Waste Sector: Retail,Kilograms,11.31294
+2022,Food Waste Index Report 2024,Food waste per capita [12.3.1],Food Waste Sector: Retail,Kilograms,10.9643

@@ -1,1 +1,139 @@
-Year,Value
+Year,SDG Series,Degree of urbanisation,Value
+2000,Proportion of population using basic drinking water services [1.4.1],,47.52154
+2001,Proportion of population using basic drinking water services [1.4.1],,48.2519
+2002,Proportion of population using basic drinking water services [1.4.1],,48.97944
+2003,Proportion of population using basic drinking water services [1.4.1],,49.70406
+2004,Proportion of population using basic drinking water services [1.4.1],,50.42562
+2005,Proportion of population using basic drinking water services [1.4.1],,51.14309
+2006,Proportion of population using basic drinking water services [1.4.1],,51.8573
+2007,Proportion of population using basic drinking water services [1.4.1],,52.56813
+2008,Proportion of population using basic drinking water services [1.4.1],,53.27547
+2009,Proportion of population using basic drinking water services [1.4.1],,53.97832
+2010,Proportion of population using basic drinking water services [1.4.1],,54.67747
+2011,Proportion of population using basic drinking water services [1.4.1],,55.37487
+2012,Proportion of population using basic drinking water services [1.4.1],,56.06989
+2013,Proportion of population using basic drinking water services [1.4.1],,56.7631
+2014,Proportion of population using basic drinking water services [1.4.1],,57.45347
+2015,Proportion of population using basic drinking water services [1.4.1],,58.14116
+2016,Proportion of population using basic drinking water services [1.4.1],,58.82594
+2017,Proportion of population using basic drinking water services [1.4.1],,59.50757
+2018,Proportion of population using basic drinking water services [1.4.1],,60.18618
+2019,Proportion of population using basic drinking water services [1.4.1],,60.86078
+2020,Proportion of population using basic drinking water services [1.4.1],,61.53187
+2021,Proportion of population using basic drinking water services [1.4.1],,62.19884
+2022,Proportion of population using basic drinking water services [1.4.1],,62.86178
+2000,Proportion of population using basic drinking water services [1.4.1],Rural,37.52961
+2001,Proportion of population using basic drinking water services [1.4.1],Rural,38.24283
+2002,Proportion of population using basic drinking water services [1.4.1],Rural,38.95624
+2003,Proportion of population using basic drinking water services [1.4.1],Rural,39.66985
+2004,Proportion of population using basic drinking water services [1.4.1],Rural,40.38366
+2005,Proportion of population using basic drinking water services [1.4.1],Rural,41.09767
+2006,Proportion of population using basic drinking water services [1.4.1],Rural,41.81188
+2007,Proportion of population using basic drinking water services [1.4.1],Rural,42.52629
+2008,Proportion of population using basic drinking water services [1.4.1],Rural,43.24089
+2009,Proportion of population using basic drinking water services [1.4.1],Rural,43.9557
+2010,Proportion of population using basic drinking water services [1.4.1],Rural,44.67071
+2011,Proportion of population using basic drinking water services [1.4.1],Rural,45.38591
+2012,Proportion of population using basic drinking water services [1.4.1],Rural,46.10131
+2013,Proportion of population using basic drinking water services [1.4.1],Rural,46.81692
+2014,Proportion of population using basic drinking water services [1.4.1],Rural,47.53272
+2015,Proportion of population using basic drinking water services [1.4.1],Rural,48.24872
+2016,Proportion of population using basic drinking water services [1.4.1],Rural,48.96492
+2017,Proportion of population using basic drinking water services [1.4.1],Rural,49.68132
+2018,Proportion of population using basic drinking water services [1.4.1],Rural,50.39791
+2019,Proportion of population using basic drinking water services [1.4.1],Rural,51.11471
+2020,Proportion of population using basic drinking water services [1.4.1],Rural,51.83171
+2021,Proportion of population using basic drinking water services [1.4.1],Rural,52.5489
+2022,Proportion of population using basic drinking water services [1.4.1],Rural,53.2663
+2000,Proportion of population using basic drinking water services [1.4.1],Urban,87.76051
+2001,Proportion of population using basic drinking water services [1.4.1],Urban,87.69721
+2002,Proportion of population using basic drinking water services [1.4.1],Urban,87.63385
+2003,Proportion of population using basic drinking water services [1.4.1],Urban,87.57041
+2004,Proportion of population using basic drinking water services [1.4.1],Urban,87.50691
+2005,Proportion of population using basic drinking water services [1.4.1],Urban,87.44333
+2006,Proportion of population using basic drinking water services [1.4.1],Urban,87.37969
+2007,Proportion of population using basic drinking water services [1.4.1],Urban,87.31597
+2008,Proportion of population using basic drinking water services [1.4.1],Urban,87.25219
+2009,Proportion of population using basic drinking water services [1.4.1],Urban,87.18833
+2010,Proportion of population using basic drinking water services [1.4.1],Urban,87.12441
+2011,Proportion of population using basic drinking water services [1.4.1],Urban,87.06041
+2012,Proportion of population using basic drinking water services [1.4.1],Urban,86.99635
+2013,Proportion of population using basic drinking water services [1.4.1],Urban,86.93222
+2014,Proportion of population using basic drinking water services [1.4.1],Urban,86.86801
+2015,Proportion of population using basic drinking water services [1.4.1],Urban,86.80374
+2016,Proportion of population using basic drinking water services [1.4.1],Urban,86.7394
+2017,Proportion of population using basic drinking water services [1.4.1],Urban,86.67499
+2018,Proportion of population using basic drinking water services [1.4.1],Urban,86.6105
+2019,Proportion of population using basic drinking water services [1.4.1],Urban,86.54595
+2020,Proportion of population using basic drinking water services [1.4.1],Urban,86.48133
+2021,Proportion of population using basic drinking water services [1.4.1],Urban,86.41664
+2022,Proportion of population using basic drinking water services [1.4.1],Urban,86.35188
+2000,Proportion of population using basic sanitation services [1.4.1],,28.05317
+2001,Proportion of population using basic sanitation services [1.4.1],,28.36561
+2002,Proportion of population using basic sanitation services [1.4.1],,28.73359
+2003,Proportion of population using basic sanitation services [1.4.1],,29.10331
+2004,Proportion of population using basic sanitation services [1.4.1],,29.4748
+2005,Proportion of population using basic sanitation services [1.4.1],,29.84805
+2006,Proportion of population using basic sanitation services [1.4.1],,30.22314
+2007,Proportion of population using basic sanitation services [1.4.1],,30.60012
+2008,Proportion of population using basic sanitation services [1.4.1],,30.97903
+2009,Proportion of population using basic sanitation services [1.4.1],,31.35986
+2010,Proportion of population using basic sanitation services [1.4.1],,31.7427
+2011,Proportion of population using basic sanitation services [1.4.1],,32.12776
+2012,Proportion of population using basic sanitation services [1.4.1],,32.51508
+2013,Proportion of population using basic sanitation services [1.4.1],,32.90477
+2014,Proportion of population using basic sanitation services [1.4.1],,33.29685
+2015,Proportion of population using basic sanitation services [1.4.1],,33.6914
+2016,Proportion of population using basic sanitation services [1.4.1],,34.08849
+2017,Proportion of population using basic sanitation services [1.4.1],,34.4882
+2018,Proportion of population using basic sanitation services [1.4.1],,34.89064
+2019,Proportion of population using basic sanitation services [1.4.1],,35.29579
+2020,Proportion of population using basic sanitation services [1.4.1],,35.70382
+2021,Proportion of population using basic sanitation services [1.4.1],,36.11476
+2022,Proportion of population using basic sanitation services [1.4.1],,36.52872
+2000,Proportion of population using basic sanitation services [1.4.1],Rural,27.56866
+2001,Proportion of population using basic sanitation services [1.4.1],Rural,27.88939
+2002,Proportion of population using basic sanitation services [1.4.1],Rural,28.23157
+2003,Proportion of population using basic sanitation services [1.4.1],Rural,28.57424
+2004,Proportion of population using basic sanitation services [1.4.1],Rural,28.9174
+2005,Proportion of population using basic sanitation services [1.4.1],Rural,29.26105
+2006,Proportion of population using basic sanitation services [1.4.1],Rural,29.60518
+2007,Proportion of population using basic sanitation services [1.4.1],Rural,29.9498
+2008,Proportion of population using basic sanitation services [1.4.1],Rural,30.29491
+2009,Proportion of population using basic sanitation services [1.4.1],Rural,30.64051
+2010,Proportion of population using basic sanitation services [1.4.1],Rural,30.9866
+2011,Proportion of population using basic sanitation services [1.4.1],Rural,31.33317
+2012,Proportion of population using basic sanitation services [1.4.1],Rural,31.68023
+2013,Proportion of population using basic sanitation services [1.4.1],Rural,32.02778
+2014,Proportion of population using basic sanitation services [1.4.1],Rural,32.37582
+2015,Proportion of population using basic sanitation services [1.4.1],Rural,32.72435
+2016,Proportion of population using basic sanitation services [1.4.1],Rural,33.07336
+2017,Proportion of population using basic sanitation services [1.4.1],Rural,33.42286
+2018,Proportion of population using basic sanitation services [1.4.1],Rural,33.77285
+2019,Proportion of population using basic sanitation services [1.4.1],Rural,34.12333
+2020,Proportion of population using basic sanitation services [1.4.1],Rural,34.47429
+2021,Proportion of population using basic sanitation services [1.4.1],Rural,34.82574
+2022,Proportion of population using basic sanitation services [1.4.1],Rural,35.17768
+2000,Proportion of population using basic sanitation services [1.4.1],Urban,30.00435
+2001,Proportion of population using basic sanitation services [1.4.1],Urban,30.24237
+2002,Proportion of population using basic sanitation services [1.4.1],Urban,30.66965
+2003,Proportion of population using basic sanitation services [1.4.1],Urban,31.09989
+2004,Proportion of population using basic sanitation services [1.4.1],Urban,31.53309
+2005,Proportion of population using basic sanitation services [1.4.1],Urban,31.96924
+2006,Proportion of population using basic sanitation services [1.4.1],Urban,32.40835
+2007,Proportion of population using basic sanitation services [1.4.1],Urban,32.85042
+2008,Proportion of population using basic sanitation services [1.4.1],Urban,33.29544
+2009,Proportion of population using basic sanitation services [1.4.1],Urban,33.74342
+2010,Proportion of population using basic sanitation services [1.4.1],Urban,34.19435
+2011,Proportion of population using basic sanitation services [1.4.1],Urban,34.64824
+2012,Proportion of population using basic sanitation services [1.4.1],Urban,35.10508
+2013,Proportion of population using basic sanitation services [1.4.1],Urban,35.56488
+2014,Proportion of population using basic sanitation services [1.4.1],Urban,36.02764
+2015,Proportion of population using basic sanitation services [1.4.1],Urban,36.49335
+2016,Proportion of population using basic sanitation services [1.4.1],Urban,36.96202
+2017,Proportion of population using basic sanitation services [1.4.1],Urban,37.43365
+2018,Proportion of population using basic sanitation services [1.4.1],Urban,37.90823
+2019,Proportion of population using basic sanitation services [1.4.1],Urban,38.38576
+2020,Proportion of population using basic sanitation services [1.4.1],Urban,38.86626
+2021,Proportion of population using basic sanitation services [1.4.1],Urban,39.34971
+2022,Proportion of population using basic sanitation services [1.4.1],Urban,39.83611

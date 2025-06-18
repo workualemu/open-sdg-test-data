@@ -12,7 +12,61 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Does not include regional and local government;Break in series: change in methodology",
+                "Partial data; Does not include regional and local government;Includes only direct expenditure",
+                "Partial data; Includes only expenditure at national level of government;Break in series: change in methodology",
+                "Partial data; Does not include regional/local intergovernmental transfers",
+                "Break in series: change in methodology",
+                "Partial data; Does not include private expenditure on natural heritage;Does not include regional and local government;Break in series: change in methodology",
+                "Partial data; Does not include private expenditure on natural heritage;Break in series: change in methodology",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total expenditure per capita spent on cultural heritage, public and private [11.4.1]",
+                "Total expenditure per capita spent on cultural and natural heritage, public [11.4.1]",
+                "Total expenditure per capita spent on cultural and natural heritage, public and private [11.4.1]",
+                "Total expenditure per capita spent on cultural and natural heritage, private [11.4.1]",
+                "Total expenditure per capita spent on natural heritage, public and private [11.4.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Level_of_government: National Government",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Does not include regional and local government;Break in series: change in methodology",
+                "Partial data; Includes only expenditure at national level of government;Break in series: change in methodology",
+                "Break in series: change in methodology",
+                "Partial data; Does not include private expenditure on natural heritage;Does not include regional and local government;Break in series: change in methodology",
+                "Partial data; Does not include private expenditure on natural heritage;Break in series: change in methodology",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,8 +12,102 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "33.5435",
+                "33.58119",
+                "33.60017",
+                "33.70788",
+                "33.91415",
+                "38.07548",
+                "38.63254",
+                "38.88482",
+                "38.88917",
+                "40.67083",
+                "40.69578",
+                "40.7007",
+                "40.72862",
+                "40.7821",
+                "41.86096",
+                "42.00539",
+                "42.14034",
+                "42.88662",
+                "42.88775",
+                ""
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "33.5435",
+                "33.58119",
+                "33.60017",
+                "33.70788",
+                "33.91415",
+                "38.07548",
+                "38.63254",
+                "38.88482",
+                "38.88917",
+                "38.82666",
+                "38.85161",
+                "38.85653",
+                "38.88445",
+                "39.29009",
+                "40.84219",
+                "41.08016",
+                "41.21512",
+                "42.88662",
+                "42.88775",
+                ""
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average proportion of Freshwater Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]",
+                "Average proportion of Terrestrial Key Biodiversity Areas (KBAs) covered by protected areas [15.1.2]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "38.88917",
+                "42.88775",
+                ""
+              ]
+            },
+            "title": "Upper bound value"
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "38.88917",
+                "42.88775",
+                ""
+              ]
+            },
+            "title": "Lower bound value"
           },
           {
             "name": "Value",

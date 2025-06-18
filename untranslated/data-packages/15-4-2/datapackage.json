@@ -12,11 +12,163 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "M",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "N",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FAO estimate",
+                "NaN = Not relevant",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Food and Agriculture Organization of the United Nations (FAO)",
+                "NA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Area of degraded mountain land (square kilometres) [15.4.2]",
+                "Proportion of degraded mountain land (%) [15.4.2]",
+                "Mountain green cover area (square kilometres) [15.4.2]",
+                "Mountain Green Cover Index [15.4.2]",
+                "Mountain area (square kilometres) [15.4.2]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Custom Breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Custom code 01",
+                "Custom code 02",
+                "Custom code 03",
+                "Custom code 04",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Land Cover: Artificial surfaces",
+                "Land Cover: Croplands",
+                "Land Cover: Grassland",
+                "Land Cover: Inland water bodies",
+                "Land Cover: MGCI",
+                "Land Cover: Permanent snow and glaciers",
+                "Land Cover: Shrubs and/or herbaceous vegetation, aquatic or regularly flooded",
+                "Land Cover: Shrub-covered areas",
+                "Land Cover: Sparsely natural vegetated areas",
+                "Land Cover: Terrestrial barren land",
+                "Land Cover: Tree-covered areas",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Square kilometers",
+                "Percent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation status",
+            "type": "string"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Estimated",
+                "Non-relevant",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "FAO estimate",
+                "NaN = Not relevant",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Food and Agriculture Organization of the United Nations (FAO)",
+                "NA",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Label for custom breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nival",
+                "Alpine",
+                "Montane",
+                "Remaining mountain area",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

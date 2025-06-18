@@ -12,8 +12,106 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "U",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Repository: ILO-STATISTICS - Micro data processing | Currency: KEN - Kenyan shilling (KES) | Break in series: Methodology revised",
+                "Repository: ILO-STATISTICS - Micro data processing | Currency: KEN - Kenyan shilling (KES)",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "HIES - Household Budget Survey",
+                "HS - Continuous household survey",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Armed forces occupations",
+                "Managers",
+                "Professionals",
+                "Technicians and associate professionals",
+                "Clerical support workers",
+                "Service and sales workers",
+                "Skilled agricultural, forestry and fishery workers",
+                "Craft and related trades workers",
+                "Plant and machine operators, and assemblers",
+                "Elementary occupations",
+                "Not elsewhere classified",
+                ""
+              ]
+            },
+            "title": "Occupation"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Repository: ILO-STATISTICS - Micro data processing | Currency: KEN - Kenyan shilling (KES)",
+                "Repository: ILO-STATISTICS - Micro data processing | Currency: KEN - Kenyan shilling (KES) | Break in series: Methodology revised",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "HS - Continuous household survey",
+                "HIES - Household Budget Survey",
+                ""
+              ]
+            },
+            "title": "Source details"
           },
           {
             "name": "Value",

@@ -12,11 +12,78 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "O",
+                "E",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_X",
+                "E",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NaN = A figure was not provided",
+                "Agricultural households have at least one working-age adult self-employed in agriculture. An individual owns agricultural land if they're part of such a household and own land themselves or jointly with others. and if the household owns land used for agriculture.",
+                "Agricultural households have at least one working-age adult self-employed in agriculture. An individual owns agricultural land if they're part of such a household and own land themselves or jointly with others. and if the household owns land used for agriculture",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NA",
+                "Demographic and Health Survey",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Share of women among owners or rights-bearers of agricultural land, by type of tenure [5.a.1]",
+                "Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

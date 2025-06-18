@@ -1,1 +1,16 @@
-Year,Value
+Year,SOURCE_DETAIL,Sex,Composite breakdown,Value
+2019,Assessments for Minimum Proficiency Levels (AMPL). Grade 7 Data extracted on 25 February 2025.,,Skill: Mathematics,79.7
+2021,Assessments for Minimum Proficiency Levels (AMPL). Grade 7 Data extracted on 25 February 2025.,,Skill: Mathematics,74.1
+2023,Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 25 February 2025.,,Skill: Mathematics,36.9
+2021,Assessments for Minimum Proficiency Levels (AMPL). Grade 7 Data extracted on 25 February 2025.,,Skill: Reading,46.7
+2023,Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 25 February 2025.,,Skill: Reading,25.5
+2019,Assessments for Minimum Proficiency Levels (AMPL). Grade 7 Data extracted on 25 February 2025.,Female,Skill: Mathematics,78.4
+2021,Assessments for Minimum Proficiency Levels (AMPL). Grade 7 Data extracted on 25 February 2025.,Female,Skill: Mathematics,74.6
+2023,Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 25 February 2025.,Female,Skill: Mathematics,37.9
+2021,Assessments for Minimum Proficiency Levels (AMPL). Grade 7 Data extracted on 25 February 2025.,Female,Skill: Reading,48.4
+2023,Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 25 February 2025.,Female,Skill: Reading,27.2
+2019,Assessments for Minimum Proficiency Levels (AMPL). Grade 7 Data extracted on 25 February 2025.,Male,Skill: Mathematics,82.8
+2021,Assessments for Minimum Proficiency Levels (AMPL). Grade 7 Data extracted on 25 February 2025.,Male,Skill: Mathematics,73.5
+2023,Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 25 February 2025.,Male,Skill: Mathematics,36.0
+2021,Assessments for Minimum Proficiency Levels (AMPL). Grade 7 Data extracted on 25 February 2025.,Male,Skill: Reading,44.9
+2023,Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 25 February 2025.,Male,Skill: Reading,23.9

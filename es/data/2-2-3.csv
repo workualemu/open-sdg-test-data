@@ -1,1 +1,73 @@
-Year,Value
+Year,UPPER_BOUND,LOWER_BOUND,SDG Series,Upper bound value,Lower bound value,Value
+2000,47.3,22.9,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,34.4
+2001,46.4,22.2,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,33.5
+2002,46,21.6,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,32.7
+2003,45.9,20.7,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,31.9
+2004,45.7,19.7,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,31.1
+2005,45.5,18.7,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,30.4
+2006,45,17.7,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,29.6
+2007,44.7,16.6,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,29.0
+2008,44.6,16.1,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,28.3
+2009,44.3,15.3,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,27.8
+2010,43.9,14.9,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,27.5
+2011,43.6,14.7,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,27.2
+2012,43.5,14.5,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,27.2
+2013,44,14.5,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,27.3
+2014,44.3,14.7,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,27.5
+2015,44.9,14.9,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,27.8
+2016,45.7,14.9,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,28.1
+2017,46.3,14.9,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,28.5
+2018,47.1,14.9,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,28.9
+2019,48.1,14.7,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,29.3
+2020,49.3,14.8,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,29.8
+2021,50.6,14.5,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,30.5
+2022,52.6,14.2,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,31.3
+2023,55,13.9,Proportion of women aged 15-49 years with anaemia [2.2.3],55,13.9,32.2
+2000,46.4,21,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,33.0
+2001,45.6,20.5,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,32.1
+2002,45.2,19.8,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,31.3
+2003,44.8,18.9,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,30.5
+2004,44.7,17.9,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,29.8
+2005,44.4,17,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,29.0
+2006,44.1,16,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,28.3
+2007,43.8,15.1,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,27.7
+2008,43.4,14.3,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,27.1
+2009,43.3,13.7,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,26.6
+2010,43.1,13.2,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,26.3
+2011,42.8,13,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,26.1
+2012,42.9,13.3,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,26.1
+2013,43.5,13.3,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,26.3
+2014,44,13.4,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,26.6
+2015,44.6,13.5,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,26.9
+2016,45.5,13.6,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,27.2
+2017,46,13.6,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,27.7
+2018,46.9,13.7,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,28.1
+2019,48.2,13.8,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,28.6
+2020,49.1,13.7,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,29.2
+2021,50.4,13.4,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,29.9
+2022,52.5,13.3,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,30.7
+2023,55.3,13,"Proportion of women aged 15-49 years with anaemia, non-pregnant [2.2.3]",55.3,13,31.7
+2000,56.9,35.3,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,45.8
+2001,56.2,34.6,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,45.1
+2002,56,33.7,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,44.5
+2003,55.8,32.6,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,43.8
+2004,55.5,31.4,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,43.1
+2005,55.3,29.9,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,42.3
+2006,55,28.8,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,41.6
+2007,54.7,27.8,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,40.9
+2008,54.3,26.8,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,40.2
+2009,54.2,26,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,39.6
+2010,54,25.3,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,39.1
+2011,53.9,24.9,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,38.8
+2012,53.7,24.7,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,38.6
+2013,53.5,24.4,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,38.5
+2014,53.7,24.3,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,38.5
+2015,53.6,24.4,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,38.5
+2016,53.9,24.2,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,38.5
+2017,53.9,24,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,38.6
+2018,54.5,23.9,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,38.7
+2019,55.3,23.6,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,38.8
+2020,56,23,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,38.9
+2021,57.2,22.5,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,39.1
+2022,58.6,22.1,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,39.5
+2023,60.1,21.4,"Proportion of women aged 15-49 years with anaemia, pregnant [2.2.3]",60.1,21.4,39.8

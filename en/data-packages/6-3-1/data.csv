@@ -1,1 +1,20 @@
-Year,Value
+Year,NATURE,SOURCE_DETAIL,SDG Series,Economic activity,Unit of measure,Nature of data points,Source details,COMMENT_OBS,Observation-level footnotes,Value
+2022,CA,UNSD,Total wastewater generated (million m3/year) [6.3.1],,Million of cubic metres per annum,Country Adjusted,UNSD,,,1775.9
+2022,_X,UNSD,Total wastewater generated (million m3/year) [6.3.1],Activities by households,Million of cubic metres per annum,Not Available,UNSD,Value not available or reported.,Value not available or reported.,NaN
+2022,_X,UNSD,Total wastewater generated (million m3/year) [6.3.1],"Agriculture, forestry and fishing",Million of cubic metres per annum,Not Available,UNSD,Value not available or reported.,Value not available or reported.,NaN
+2022,CA,UNSD,Total wastewater generated (million m3/year) [6.3.1],Mining and quarrying,Million of cubic metres per annum,Country Adjusted,UNSD,,,0.6
+2022,CA,UNSD,Total wastewater generated (million m3/year) [6.3.1],Industries,Million of cubic metres per annum,Country Adjusted,UNSD,,,1703.4
+2022,CA,UNSD,Total wastewater generated (million m3/year) [6.3.1],Manufacturing,Million of cubic metres per annum,Country Adjusted,UNSD,,,1617.3
+2022,_X,UNSD,Total wastewater generated (million m3/year) [6.3.1],"Electricity, gas, steam and air conditioning supply",Million of cubic metres per annum,Not Available,UNSD,Value not available or reported.,Value not available or reported.,NaN
+2022,_X,UNSD,Total wastewater generated (million m3/year) [6.3.1],"Water supply; sewerage, waste management and remediation activities",Million of cubic metres per annum,Not Available,UNSD,Value not available or reported.,Value not available or reported.,NaN
+2022,CA,UNSD,Total wastewater generated (million m3/year) [6.3.1],Construction,Million of cubic metres per annum,Country Adjusted,UNSD,,,85.4
+2022,_X,UNSD,Total wastewater generated (million m3/year) [6.3.1],Services,Million of cubic metres per annum,Not Available,UNSD,Value not available or reported.,Value not available or reported.,NaN
+2022,_X,UNSD,Total wastewater generated (million m3/year) [6.3.1],"Services, and activities by households",Million of cubic metres per annum,Not Available,UNSD,Value not available or reported.,Value not available or reported.,NaN
+2022,CA,UNSD,Total wastewater treated (million m3/year) [6.3.1],,Million of cubic metres per annum,Country Adjusted,UNSD,,,1348.9
+2022,_X,UNSD,Total wastewater treated (million m3/year) [6.3.1],Industries,Million of cubic metres per annum,Not Available,UNSD,Value not available or reported.,Value not available or reported.,NaN
+2022,_X,UNSD,Total wastewater safely treated (million m3/year) [6.3.1],,Million of cubic metres per annum,Not Available,UNSD,Value not available or reported.,Value not available or reported.,NaN
+2022,_X,UNSD,Total wastewater safely treated (million m3/year) [6.3.1],Industries,Million of cubic metres per annum,Not Available,UNSD,Value not available or reported.,Value not available or reported.,NaN
+2022,CA,UNSD,Proportion of wastewater treated [6.3.1],,Percent,Country Adjusted,UNSD,,,75.95591
+2022,_X,UNSD,Proportion of wastewater treated [6.3.1],Industries,Percent,Not Available,UNSD,Value not available or reported.,Value not available or reported.,NaN
+2022,E,WHO 2022,Proportion of safely treated domestic wastewater flows [6.3.1],,Percent,Estimated,WHO 2024,,,11.36145592
+2024,E,WHO 2024,Proportion of safely treated domestic wastewater flows [6.3.1],,Percent,Estimated,WHO 2024,,,11.17656326

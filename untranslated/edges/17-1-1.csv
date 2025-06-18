@@ -1,1 +1,4 @@
 From,To
+UNIT_MULT,COMMENT_OBS
+COMMENT_OBS,SDG Series
+SDG Series,Unit of measure

@@ -12,7 +12,98 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7.5",
+                "7.3",
+                "8.1",
+                "7.1",
+                "9.5",
+                "8.2",
+                "6.8",
+                "3.9",
+                "3.3",
+                "5.2",
+                "4.9",
+                "5.1",
+                "4.1",
+                "3.7",
+                "11.1",
+                "11.3",
+                "11",
+                "9.3",
+                "13.8",
+                "12.1",
+                "9.8",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3.2",
+                "3.7",
+                "4.5",
+                "4.6",
+                "3.9",
+                "1.7",
+                "1.6",
+                "2.7",
+                "2.5",
+                "2.4",
+                "2",
+                "4.7",
+                "5.7",
+                "6.4",
+                "5",
+                "6.7",
+                "5.9",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "6.8",
+                "3.7",
+                "9.8",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3.2",
+                "1.7",
+                "4.7",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

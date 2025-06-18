@@ -12,12 +12,104 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_X",
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Data not available",
+                "Observation value represents the number of countries with national statistical plans with funding from donors",
+                "Observation value represents the number of countries with national statistical plans with funding from others",
+                "Observation value represents the number of countries with national statistical plans that are fully funded",
+                "Observation value represents the number of countries with national statistical plans that are under implementation",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NA",
+                "PARIS21 SDG Survey",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries with national statistical plans with funding from donors (1 = YES; 0 = NO) [17.18.3]",
+                "Countries with national statistical plans with funding from Government (1 = YES; 0 = NO) [17.18.3]",
+                "Countries with national statistical plans with funding from others (1 = YES; 0 = NO) [17.18.3]",
+                "Countries with national statistical plans that are fully funded (1 = YES; 0 = NO) [17.18.3]",
+                "Countries with national statistical plans that are under implementation (1 = YES; 0 = NO) [17.18.3]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Country Data",
+                "Not Available",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Observation value represents the number of countries with national statistical plans with funding from donors",
+                "Data not available",
+                "Observation value represents the number of countries with national statistical plans that are fully funded",
+                "Observation value represents the number of countries with national statistical plans that are under implementation",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "PARIS21 SDG Survey",
+                "NA",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

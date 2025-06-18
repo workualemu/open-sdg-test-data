@@ -1,1 +1,19 @@
-Year,Value
+Year,NATURE,SOURCE_DETAIL,SDG Series,Nature of data points,Source details,Value
+2016,G,World Bank Development Data Group,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],Global monitoring data,World Bank Development Data Group,34.24167
+2017,G,World Bank Development Data Group,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],Global monitoring data,World Bank Development Data Group,34.79167
+2018,G,World Bank Development Data Group,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],Global monitoring data,World Bank Development Data Group,34.09167
+2019,G,World Bank Development Data Group,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],Global monitoring data,World Bank Development Data Group,42.425
+2020,G,World Bank Development Data Group,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],Global monitoring data,World Bank Development Data Group,46.375
+2021,G,World Bank Development Data Group,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],Global monitoring data,World Bank Development Data Group,48.075
+2022,G,World Bank Development Data Group,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],Global monitoring data,World Bank Development Data Group,46.475
+2023,G,World Bank Development Data Group,Data Sources performance index (Statistical Performance Indicators Pillar 4) [17.18.1],Global monitoring data,World Bank Development Data Group,46.475
+2016,G,World Bank Development Data Group,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],Global monitoring data,World Bank Development Data Group,45.0
+2017,G,World Bank Development Data Group,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],Global monitoring data,World Bank Development Data Group,40.0
+2018,G,World Bank Development Data Group,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],Global monitoring data,World Bank Development Data Group,40.0
+2019,G,World Bank Development Data Group,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],Global monitoring data,World Bank Development Data Group,45.0
+2020,G,World Bank Development Data Group,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],Global monitoring data,World Bank Development Data Group,40.0
+2021,G,World Bank Development Data Group,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],Global monitoring data,World Bank Development Data Group,65.0
+2022,G,World Bank Development Data Group,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],Global monitoring data,World Bank Development Data Group,70.0
+2023,G,World Bank Development Data Group,Data Infrastructure performance index (Statistical Performance Indicators Pillar 5) [17.18.1],Global monitoring data,World Bank Development Data Group,70.0
+2022,E,Open Data Inventory (ODIN) 2022/2023,Open Data Inventory (ODIN) Coverage Index [17.18.1],Estimated,Open Data Inventory (ODIN) 2024/2025,55.5
+2024,E,Open Data Inventory (ODIN) 2024/2025,Open Data Inventory (ODIN) Coverage Index [17.18.1],Estimated,Open Data Inventory (ODIN) 2024/2025,60.6

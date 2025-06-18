@@ -12,7 +12,49 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                "6",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Direct agriculture loss attributed to disasters [1.5.2, 11.5.2]",
+                "Direct economic loss to cultural heritage damaged or destroyed attributed to disasters [1.5.2, 11.5.2]",
+                "Direct economic loss resulting from damaged or destroyed critical infrastructure attributed to disasters [1.5.2, 11.5.2]",
+                "Direct economic loss to other damaged or destroyed productive assets attributed to disasters [1.5.2, 11.5.2]",
+                "Direct economic loss attributed to disasters [1.5.2,11.5.2]",
+                "Direct economic loss in the housing sector attributed to disasters, by hazard type [1.5.2, 11.5.2]",
+                "Direct economic loss attributed to disasters relative to GDP [1.5.2, 11.5.2]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "USD",
+                "Percent",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
           },
           {
             "name": "Value",

@@ -1,1 +1,154 @@
-Year,Value
+Year,SDG Series,Unit of measure,Value
+2005,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,25000.0
+2006,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,3434.0
+2007,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,116.0
+2008,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,9733.0
+2009,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,50816.0
+2010,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,36503.0
+2011,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,5535.0
+2012,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,12419.0
+2013,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,1485.0
+2014,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,1931.0
+2015,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,17700.0
+2016,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,2493.0
+2017,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,28.0
+2019,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,1043257.0
+2020,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,2464.0
+2021,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,1495.0
+2022,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,4151.0
+2023,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",Number,1700.0
+2005,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",69.839261308457
+2006,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",9.30522234874868
+2007,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.304971436664439
+2008,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",24.8250595930236
+2009,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",125.754502888981
+2010,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",87.7506189095408
+2011,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",12.9448064091923
+2012,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",28.2968334410196
+2013,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",3.30096894441748
+2014,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",4.19313706585505
+2015,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",37.5887748110867
+2016,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",5.17867928804772
+2017,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.0569131533330192
+2019,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",2037.49882794557
+2020,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",4.71873956644359
+2021,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",2.80913834688804
+2022,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",7.65126581078045
+2023,"Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",3.07197439028672
+2006,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,2.0
+2007,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,116.0
+2008,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,513.0
+2010,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,15.0
+2011,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,27.0
+2012,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,7.0
+2013,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,13.0
+2014,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,111.0
+2015,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,952.0
+2016,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,605.0
+2017,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,8.0
+2019,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,712060.0
+2020,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,1012.0
+2021,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,831.0
+2022,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,1443.0
+2023,"Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,68.0
+2005,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,30.0
+2010,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,6.0
+2011,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,3.0
+2012,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,1.0
+2013,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,9.0
+2016,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,1.0
+2019,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,17.0
+2020,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,23.0
+2021,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,18.0
+2022,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,87.0
+2023,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,1.0
+2005,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,2572.0
+2006,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,17.0
+2007,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,11.0
+2008,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,62.0
+2009,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,282.0
+2010,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,154.0
+2011,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,39.0
+2012,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,25.0
+2013,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,181.0
+2014,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,224.0
+2015,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,723.0
+2016,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,673.0
+2017,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,21.0
+2019,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,4371.0
+2020,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,1777.0
+2021,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,1706.0
+2022,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,3397.0
+2023,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,99.0
+2024,"Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,2.0
+2005,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,2542.0
+2006,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,17.0
+2007,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,11.0
+2008,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,62.0
+2009,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,282.0
+2010,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,148.0
+2011,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,36.0
+2012,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,24.0
+2013,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,172.0
+2014,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,224.0
+2015,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,723.0
+2016,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,672.0
+2017,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,21.0
+2019,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,4354.0
+2020,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,1754.0
+2021,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,1688.0
+2022,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,3310.0
+2023,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,98.0
+2024,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",Number,2.0
+2005,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",7.18506320341406
+2006,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.0460654571720232
+2007,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.0289197052009382
+2008,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.158137644587225
+2009,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.697866219590139
+2010,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.370205060188732
+2011,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.0912100180593497
+2012,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.0569627857335928
+2013,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.402340322518225
+2014,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.486412585578214
+2015,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",1.53540588635117
+2016,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",1.39801490607947
+2017,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.0426848649997644
+2019,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",8.53663802586525
+2020,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",3.40308450063728
+2021,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",3.2056120533719
+2022,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",6.26146710653366
+2023,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.178897332140227
+2024,"Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]","Per 100,000 population",0.0035440291755822
+2006,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,1416.0
+2008,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,8376.0
+2009,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,12164.0
+2010,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,1660.0
+2011,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,5504.0
+2012,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,1096.0
+2013,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,660.0
+2014,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,596.0
+2015,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,64.0
+2016,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,76.0
+2019,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,5507.0
+2020,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,164.0
+2021,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,124.0
+2022,"Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,404.0
+2005,"Number of people whose livelihoods were disrupted or destroyed, attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,15000.0
+2019,"Number of people whose livelihoods were disrupted or destroyed, attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,301514.0
+2005,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,10000.0
+2006,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,2016.0
+2008,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,844.0
+2009,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,38652.0
+2010,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,34828.0
+2011,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,4.0
+2012,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,11316.0
+2013,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,812.0
+2014,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,1224.0
+2015,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,16684.0
+2016,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,1812.0
+2017,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,20.0
+2019,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,24176.0
+2020,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,1288.0
+2021,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,540.0
+2022,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,2304.0
+2023,"Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]",Number,1632.0

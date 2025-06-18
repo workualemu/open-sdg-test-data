@@ -1,1 +1,24 @@
-Year,Value
+Year,Custom Breakdown,Label for custom breakdown,Value
+2010,Custom code 01,Eldoret,1.025
+2020,Custom code 01,Eldoret,0.269
+2010,Custom code 03,Kisumu,0.541
+2020,Custom code 03,Kisumu,0.345
+2010,Custom code 04,Malaba,0.541
+2020,Custom code 04,Malaba,0.345
+2010,Custom code 05,Meru,0.69
+2020,Custom code 05,Meru,0.108
+2010,Custom code 07,Nairobi,1.257
+2020,Custom code 07,Nairobi,0.368
+2010,Custom code 08,Nakuru,1.135
+2020,Custom code 08,Nakuru,0.703
+2010,Custom code 09,Nyeri,2.389
+2020,Custom code 09,Nyeri,2.892
+2010,Custom code 10,Emali,2.967
+2010,Custom code 11,Garissa,0.628
+2020,Custom code 11,Garissa,0.314
+2010,Custom code 12,Kajiado,3.155
+2020,Custom code 12,Kajiado,1.988
+2010,Custom code 13,Naivasha,1.689
+2020,Custom code 13,Naivasha,0.391
+2010,Custom code 14,Oloitoktok,1.293
+2020,Custom code 14,Oloitoktok,3.254

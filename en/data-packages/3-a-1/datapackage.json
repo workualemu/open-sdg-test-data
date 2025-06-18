@@ -12,8 +12,113 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "25.1",
+                "20.4",
+                "17.7",
+                "15.4",
+                "14",
+                "13.6",
+                "8.4",
+                "6.4",
+                "5.1",
+                "4.2",
+                "3.7",
+                "3.5",
+                "41.7",
+                "34.3",
+                "30.2",
+                "26.6",
+                "24.2",
+                "23.7",
+                ""
+              ]
+            },
+            "title": "UPPER_BOUND"
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "13.8",
+                "13.4",
+                "11.8",
+                "10.3",
+                "8.7",
+                "7.7",
+                "3.8",
+                "3.6",
+                "3.2",
+                "2.7",
+                "2",
+                "1.9",
+                "23.9",
+                "23.1",
+                "20.5",
+                "17.9",
+                "15.3",
+                "13.6",
+                ""
+              ]
+            },
+            "title": "LOWER_BOUND"
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Upper bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "13.6",
+                "3.5",
+                "23.7",
+                ""
+              ]
+            },
+            "title": "Upper bound value"
+          },
+          {
+            "name": "Lower bound value",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "7.7",
+                "1.9",
+                "13.6",
+                ""
+              ]
+            },
+            "title": "Lower bound value"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The most recent survey was conducted in 2015. This is a projection.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
           },
           {
             "name": "Value",

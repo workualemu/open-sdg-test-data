@@ -1,1 +1,31 @@
-Year,Value
+Year,NATURE,SOURCE_DETAIL,Age,Value
+2001,CA,Kenya 2008-2009 Demographic and Health Survey,10 to 14 years old,8.109374
+2002,CA,Kenya 2003 Demographic and Health Survey,10 to 14 years old,2.664605
+2004,CA,Kenya 2008-2009 Demographic and Health Survey,10 to 14 years old,3.530811
+2006,CA,Kenya 2008-2009 Demographic and Health Survey,10 to 14 years old,2.757097
+2007,CA,Kenya 2008-2009 Demographic and Health Survey,10 to 14 years old,2.350326
+2010,CA,Kenya 2014 Demographic and Health Survey,10 to 14 years old,3.560097
+2012,CA,Kenya 2014 Demographic and Health Survey,10 to 14 years old,2.067003
+2013,CA,Kenya 2015 Malaria Indicators Survey,10 to 14 years old,3.444386
+2014,CA,Kenya 2015 Malaria Indicators Survey,10 to 14 years old,2.029649
+2018,C,Registration National Statistics & WPP2024,10 to 14 years old,1.343889
+2019,C,Registration National Statistics & WPP2024,10 to 14 years old,0.794925
+2020,C,Registration National Statistics & WPP2024,10 to 14 years old,0.65387
+2021,C,Registration National Statistics & WPP2024,10 to 14 years old,0.966705
+2022,C,Registration National Statistics & WPP2024,10 to 14 years old,0.727698
+2023,C,Registration National Statistics & WPP2024,10 to 14 years old,0.618875
+2001,CA,Kenya 2008-2009 Demographic and Health Survey,15 to 19 years old,135.65271
+2002,CA,Kenya 2003 Demographic and Health Survey,15 to 19 years old,114.18309
+2004,CA,Kenya 2008-2009 Demographic and Health Survey,15 to 19 years old,120.48951
+2006,CA,Kenya 2008-2009 Demographic and Health Survey,15 to 19 years old,106.312592
+2007,CA,Kenya 2008-2009 Demographic and Health Survey,15 to 19 years old,102.964104
+2010,CA,Kenya 2014 Demographic and Health Survey,15 to 19 years old,110.775146
+2012,CA,Kenya 2014 Demographic and Health Survey,15 to 19 years old,100.734108
+2013,CA,Kenya 2015 Malaria Indicators Survey,15 to 19 years old,98.616386
+2014,CA,Kenya 2015 Malaria Indicators Survey,15 to 19 years old,95.67424
+2018,CA,Kenya 2020 Malaria Indicators Survey,15 to 19 years old,75.187599
+2019,C,Registration National Statistics & WPP2024,15 to 19 years old,51.007301
+2020,C,Registration National Statistics & WPP2024,15 to 19 years old,43.587929
+2021,C,Registration National Statistics & WPP2024,15 to 19 years old,51.333546
+2022,C,Registration National Statistics & WPP2024,15 to 19 years old,46.09251
+2023,C,Registration National Statistics & WPP2024,15 to 19 years old,45.809792

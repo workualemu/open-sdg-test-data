@@ -12,7 +12,84 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Reading other informative information",
+                "Aged 3 and older. Target population is 15 years and above (3 and above for other indicators)",
+                "Target population is 15 years and above (3 and above for other indicators)",
+                "this option also include another response captured separately which was : reading other informative information",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "75 years old and over",
+                "under 15 years old",
+                "15 to 24 years old",
+                "25 to 74 years old",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Rural",
+                "Urban",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ICT skill: Reading or downloading on-line newspapers, magazines, or electronic books",
+                "ICT skill: Purchasing or ordering goods or services using the Internet",
+                "ICT skill: Seeking health information (on injury, disease, nutrition, etc.)",
+                "ICT skill: Using Internet banking",
+                "ICT skill: Participating in social networks",
+                "ICT skill: Telephoning over the Internet/VoIP",
+                "ICT skill: Doing a formal online course",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Reading other informative information",
+                "Aged 3 and older. Target population is 15 years and above (3 and above for other indicators)",
+                "Target population is 15 years and above (3 and above for other indicators)",
+                "this option also include another response captured separately which was : reading other informative information",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

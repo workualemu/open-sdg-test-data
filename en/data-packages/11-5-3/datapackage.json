@@ -12,12 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of disruptions to basic services attributed to disasters [11.5.3]",
+                "Number of damaged critical infrastructure attributed to disasters [11.5.3]",
+                "Number of destroyed or damaged educational facilities attributed to disasters [11.5.3]",
+                "Number of disruptions to educational services attributed to disasters [11.5.3]",
+                "Number of destroyed or damaged health facilities attributed to disasters [11.5.3]",
+                "Number of disruptions to health services attributed to disasters [11.5.3]",
+                "Number of disruptions to other basic services attributed to disasters [11.5.3]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

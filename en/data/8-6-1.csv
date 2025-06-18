@@ -1,1 +1,19 @@
-Year,Value
+Year,COMMENT_OBS,SOURCE_DETAIL,SDG Series,Sex,Value
+2005,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,HIES - Household Budget Survey,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,22.7
+2016,Repository: ILO-STATISTICS - Micro data processing,HIES - Household Budget Survey,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,13.73
+2019,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,19.67
+2021,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",,18.73
+2005,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,HIES - Household Budget Survey,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",Female,29.98
+2016,Repository: ILO-STATISTICS - Micro data processing,HIES - Household Budget Survey,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",Female,18.24
+2019,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",Female,24.29
+2021,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",Female,24.97
+2005,Repository: ILO-STATISTICS - Micro data processing | Break in series: Methodology revised,HIES - Household Budget Survey,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",Male,15.36
+2016,Repository: ILO-STATISTICS - Micro data processing,HIES - Household Budget Survey,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",Male,9.2
+2019,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",Male,14.97
+2021,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,"Proportion of youth not in education, employment or training, by sex and age - 13th ICLS (%) [8.6.1]",Male,12.21
+2019,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,28.97
+2021,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",,26.27
+2019,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Female,34.03
+2021,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Female,32.82
+2019,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Male,23.83
+2021,Repository: ILO-STATISTICS - Micro data processing,HS - Continuous household survey,"Proportion of youth not in education, employment or training, by sex and age - 19th ICLS (%) [8.6.1]",Male,19.41

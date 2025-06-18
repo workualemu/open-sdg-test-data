@@ -1,1 +1,93 @@
-Year,Value
+Year,Economic activity,Value
+2000,,16.95
+2001,,15.8
+2002,,14.13
+2003,,13.12
+2004,,12.98
+2005,,13.27
+2006,,13.58
+2007,,13.82
+2008,,13.14
+2009,,12.91
+2010,,13.19
+2011,,13.74
+2012,,14.39
+2013,,14.96
+2014,,15.88
+2015,,16.47
+2016,,13.64
+2017,,13.93
+2018,,14.7
+2019,,15.37
+2020,,15.03
+2021,,16.36
+2022,,17.25
+2000,Agriculture (ISIC4 A01 A0210 A0322),0.12
+2001,Agriculture (ISIC4 A01 A0210 A0322),0.1
+2002,Agriculture (ISIC4 A01 A0210 A0322),0.08
+2003,Agriculture (ISIC4 A01 A0210 A0322),0.07
+2004,Agriculture (ISIC4 A01 A0210 A0322),0.08
+2005,Agriculture (ISIC4 A01 A0210 A0322),0.08
+2006,Agriculture (ISIC4 A01 A0210 A0322),0.09
+2007,Agriculture (ISIC4 A01 A0210 A0322),0.1
+2008,Agriculture (ISIC4 A01 A0210 A0322),0.11
+2009,Agriculture (ISIC4 A01 A0210 A0322),0.13
+2010,Agriculture (ISIC4 A01 A0210 A0322),0.16
+2011,Agriculture (ISIC4 A01 A0210 A0322),0.18
+2012,Agriculture (ISIC4 A01 A0210 A0322),0.18
+2013,Agriculture (ISIC4 A01 A0210 A0322),0.19
+2014,Agriculture (ISIC4 A01 A0210 A0322),0.2
+2015,Agriculture (ISIC4 A01 A0210 A0322),0.22
+2016,Agriculture (ISIC4 A01 A0210 A0322),0.14
+2017,Agriculture (ISIC4 A01 A0210 A0322),0.15
+2018,Agriculture (ISIC4 A01 A0210 A0322),0.15
+2019,Agriculture (ISIC4 A01 A0210 A0322),0.17
+2020,Agriculture (ISIC4 A01 A0210 A0322),0.18
+2021,Agriculture (ISIC4 A01 A0210 A0322),0.18
+2022,Agriculture (ISIC4 A01 A0210 A0322),0.19
+2000,Industries,62.81
+2001,Industries,63.61
+2002,Industries,63.28
+2003,Industries,64.53
+2004,Industries,68.48
+2005,Industries,73.63
+2006,Industries,74.33
+2007,Industries,78.15
+2008,Industries,72.03
+2009,Industries,67.06
+2010,Industries,71.77
+2011,Industries,80.7
+2012,Industries,81.4
+2013,Industries,84.41
+2014,Industries,87.63
+2015,Industries,91.39
+2016,Industries,37.44
+2017,Industries,37.46
+2018,Industries,39.65
+2019,Industries,41.11
+2020,Industries,42.49
+2021,Industries,45.34
+2022,Industries,49.64
+2000,Services (G to T),44.7
+2001,Services (G to T),48.65
+2002,Services (G to T),49.17
+2003,Services (G to T),50.75
+2004,Services (G to T),42.88
+2005,Services (G to T),38.78
+2006,Services (G to T),36.48
+2007,Services (G to T),34.19
+2008,Services (G to T),30.79
+2009,Services (G to T),29.06
+2010,Services (G to T),27.97
+2011,Services (G to T),28.5
+2012,Services (G to T),30.18
+2013,Services (G to T),31.38
+2014,Services (G to T),33.53
+2015,Services (G to T),34.7
+2016,Services (G to T),87.26
+2017,Services (G to T),89.53
+2018,Services (G to T),94.48
+2019,Services (G to T),98.96
+2020,Services (G to T),95.21
+2021,Services (G to T),104.3
+2022,Services (G to T),108.92

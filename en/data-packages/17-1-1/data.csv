@@ -1,1 +1,49 @@
-Year,Value
+Year,UNIT_MULT,COMMENT_OBS,SDG Series,Unit of measure,Unit multiplier,Value
+2000,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,13.76250349
+2001,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,14.87146153
+2002,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,15.64364175
+2003,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,12.55895485
+2004,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,15.01437297
+2005,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,15.15854884
+2006,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,14.8592607
+2007,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,14.529018
+2008,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,15.56830325
+2009,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,14.8043974
+2010,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,14.98007317
+2011,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,15.39965908
+2012,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,16.02857194
+2013,0,Budgetary Central Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,15.16705304
+2014,0,General Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,20.44909214
+2015,0,General Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,20.25164608
+2016,0,General Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,19.91702563
+2017,0,General Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,21.5292419
+2018,0,General Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,19.32229516
+2019,0,General Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,19.49589347
+2020,0,General Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,18.22248146
+2021,0,General Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,17.89201721
+2022,0,General Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,18.10696018
+2023,0,General Government Sector,Total government revenue as a proportion of GDP [17.1.1],Percent,Units,18.91339799
+2000,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,190864.0
+2001,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,218443.0
+2002,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,234436.0
+2003,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,204004.0
+2004,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,270920.0
+2005,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,301299.0
+2006,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,317855.0
+2007,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,359027.0
+2008,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,442180.0
+2009,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,484939.0
+2010,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,538928.0
+2011,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,641013.0
+2012,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,764113.0
+2013,6,Budgetary Central Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,805571.0
+2014,6,General Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,1227730.0
+2015,6,General Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,1394190.0
+2016,6,General Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,1512510.0
+2017,6,General Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,1826410.0
+2018,6,General Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,1804760.0
+2019,6,General Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,1995940.0
+2020,6,General Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,1952370.0
+2021,6,General Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,2151990.0
+2022,6,General Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,2420600.0
+2023,6,General Government Sector,"Total government revenue, in local currency [17.1.1]",Local currency,Millions,2862960.0

@@ -12,7 +12,40 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Assessments for Minimum Proficiency Levels (AMPL). Grade 7 Data extracted on 25 February 2025.",
+                "Assessments for Minimum Proficiency Levels (AMPL). Grade 6 Data extracted on 25 February 2025.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Skill: Mathematics",
+                "Skill: Reading",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,7 +12,22 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenya Multiple Indicator Cluster Survey 2000 Preliminary Report. Central Bureau Of Statistics, Ministry Of Finance And Planning [Kenya], United Nations Children's Fund (UNICEF); 2000.",
+                "Central Bureau of Statistics (CBS) [Kenya], Ministry of Health (MOH) [Kenya], ORC Macro. Kenya Demographic and Health Survey 2003. Calverton, Maryland: CBS, MOH, ORC Macro; 2004.",
+                "Kenya National Bureau of Statistics (KNBS), ICF Macro. Kenya Demographic and Health Survey 2008-09. Calverton, Maryland: KNBS, ICF Macro; 2010.",
+                "Kenya National Bureau of Statistics, Ministry of Health, National AIDS Control Council, Kenya Medical Research Institute, National Council for Population and Development, Nairobi, Kenya, The DHS Program. Kenya Demographic and Health Survey 2014. Rockville, Maryland, USA: ICF International; 2015.",
+                "2015/16 Kenya Integrated Household Budget Survey (KIHBS), Kenya National Bureau of Statistics",
+                "KNBS and ICF. 2023. Kenya Demographic and Health Survey 2022. Nairobi, Kenya, and Rockville, Maryland,\r\nUSA: KNBS and ICF.",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

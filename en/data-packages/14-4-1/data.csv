@@ -1,1 +1,7 @@
-Year,Value
+Year,OBS_STATUS,NATURE,COMMENT_OBS,SOURCE_DETAIL,Value
+2016,O,_X,NaN = A figure was not provided,NA,NaN
+2017,O,_X,NaN = A figure was not provided,NA,NaN
+2018,A,C,The indicator reported here is based on FAO SDG 14.4.1 questionnaire Field 222: Overfished (yes o). here using 8 stocks where 12.5% had an unknown stock status.,FAO SDG14.4.1 questionnaire. Values were produced according to the SDG14.4.1 Metadata document.,28.57
+2019,O,_X,NaN = A figure was not provided,NA,NaN
+2020,O,_X,NaN = A figure was not provided,NA,NaN
+2021,O,_X,Obs_Value = NaN means no data was provided by the country,NA,NaN

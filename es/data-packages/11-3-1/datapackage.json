@@ -12,8 +12,52 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
+          },
+          {
+            "name": "Custom Breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Custom code 01",
+                "Custom code 03",
+                "Custom code 04",
+                "Custom code 05",
+                "Custom code 07",
+                "Custom code 08",
+                "Custom code 09",
+                "Custom code 10",
+                "Custom code 11",
+                "Custom code 12",
+                "Custom code 13",
+                "Custom code 14",
+                ""
+              ]
+            },
+            "title": "Custom Breakdown"
+          },
+          {
+            "name": "Label for custom breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Eldoret",
+                "Kisumu",
+                "Malaba",
+                "Meru",
+                "Nairobi",
+                "Nakuru",
+                "Nyeri",
+                "Emali",
+                "Garissa",
+                "Kajiado",
+                "Naivasha",
+                "Oloitoktok",
+                ""
+              ]
+            },
+            "title": "Label for custom breakdown"
           },
           {
             "name": "Value",

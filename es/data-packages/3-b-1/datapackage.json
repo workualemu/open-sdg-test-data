@@ -12,12 +12,64 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "N",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine [3.b.1]",
+                "Proportion of the target population who received the final dose of human papillomavirus (HPV) vaccine [3.b.1]",
+                "Proportion of the target population who received measles-containing-vaccine second-dose (MCV2) [3.b.1]",
+                "Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine [3.b.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The HPV vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries)",
+                "MCV2 have not been introduced in the national immunization schedule in the given country (or  group of countries)",
+                "The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries)",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The HPV vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries)",
+                "MCV2 have not been introduced in the national immunization schedule in the given country (or  group of countries)",
+                "The PCV3 vaccine has not been introduced in the national immunization schedule in the given country (or  group of countries)",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

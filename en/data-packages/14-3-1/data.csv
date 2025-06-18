@@ -1,1 +1,47 @@
-Year,Value
+Year,COMMENT_OBS,UPPER_BOUND,LOWER_BOUND,Custom Breakdown,Label for custom breakdown,Observation-level footnotes,Upper bound value,Lower bound value,Value
+2020,Mooring Name: Coral Garden | LATITUDE: -4.00 | LONGITUDE: 39.75; Upper and lower bounds where not provided.,NaN,NaN,Custom code 01,Coral Garden,Mooring Name: Coral Garden | LATITUDE: -4.00 | LONGITUDE: 39.75; Upper and lower bounds where not provided.,NaN,NaN,7.981
+2020,Mooring Name:  Diani | LATITUDE: -4.34 | LONGITUDE: 39.58,8.021,7.804,Custom code 02,Diani,Mooring Name:  Diani | LATITUDE: -4.34 | LONGITUDE: 39.58,8.400,7.870,7.904
+2021,Mooring Name: Diani | LATITUDE: -4.344 | LONGITUDE: 39.579,8.123,7.947,Custom code 02,Diani,Mooring Name:  Diani | LATITUDE: -4.34 | LONGITUDE: 39.58,8.400,7.870,8.012
+2022,Mooring Name: Diani | LATITUDE: -4.344 | LONGITUDE: 39.579,8.132,7.704,Custom code 02,Diani,Mooring Name:  Diani | LATITUDE: -4.34 | LONGITUDE: 39.58,8.400,7.870,7.918
+2023,Mooring Name: Diani | LATITUDE: -4.340 | LONGITUDE: 39.579,7.92,7.701,Custom code 02,Diani,Mooring Name:  Diani | LATITUDE: -4.34 | LONGITUDE: 39.58,8.400,7.870,7.82367
+2024,Mooring Name:  Diani | LATITUDE: -4.34 | LONGITUDE: 39.58,8.400,7.870,Custom code 02,Diani,Mooring Name:  Diani | LATITUDE: -4.34 | LONGITUDE: 39.58,8.400,7.870,8.135
+2020,Mooring Name:  Gazi | LATITUDE: -4.46 | LONGITUDE: 39.53,8.076,7.881,Custom code 03,Gazi,Mooring Name:  Gazi | LATITUDE: -4.46 | LONGITUDE: 39.53,8.010,7.480,7.994
+2021,Mooring Name: Gazi | LATITUDE: -4.456 | LONGITUDE: 39.527,8.067,7.923,Custom code 03,Gazi,Mooring Name:  Gazi | LATITUDE: -4.46 | LONGITUDE: 39.53,8.010,7.480,7.984
+2022,Mooring Name: Gazi | LATITUDE: -4.456 | LONGITUDE: 39.527,8.086,7.842,Custom code 03,Gazi,Mooring Name:  Gazi | LATITUDE: -4.46 | LONGITUDE: 39.53,8.010,7.480,7.934
+2023,Mooring Name: Gazi | LATITUDE: -4.460 | LONGITUDE: 39.527,8.08667,7.95,Custom code 03,Gazi,Mooring Name:  Gazi | LATITUDE: -4.46 | LONGITUDE: 39.53,8.010,7.480,8.01389
+2024,Mooring Name:  Gazi | LATITUDE: -4.46 | LONGITUDE: 39.53,8.010,7.480,Custom code 03,Gazi,Mooring Name:  Gazi | LATITUDE: -4.46 | LONGITUDE: 39.53,8.010,7.480,7.745
+2020,Mooring Name:  Kilifi bay | LATITUDE: -3.62 | LONGITUDE: 39.88,NaN,NaN,Custom code 04,Kilifi bay,Mooring Name:  Kilifi bay | LATITUDE: -3.62 | LONGITUDE: 39.88,8.040,7.970,7.935
+2024,Mooring Name:  Kilifi bay | LATITUDE: -3.62 | LONGITUDE: 39.88,8.040,7.970,Custom code 04,Kilifi bay,Mooring Name:  Kilifi bay | LATITUDE: -3.62 | LONGITUDE: 39.88,8.040,7.970,8.005
+2020,Mooring Name:  Kuruwitu | LATITUDE: -3.81| LONGITUDE: 39.84,7.908,7.892,Custom code 05,Kuruwitu,Mooring Name: Kuruwitu | LATITUDE: -3.812 | LONGITUDE: 39.837,8.430,8.170,7.9
+2021,Mooring Name: Kuruwitu | LATITUDE: -3.812 | LONGITUDE: 39.837,8.063,7.924,Custom code 05,Kuruwitu,Mooring Name: Kuruwitu | LATITUDE: -3.812 | LONGITUDE: 39.837,8.430,8.170,7.99
+2022,Mooring Name: Kuruwitu | LATITUDE: -3.812 | LONGITUDE: 39.837,8.082,7.906,Custom code 05,Kuruwitu,Mooring Name: Kuruwitu | LATITUDE: -3.812 | LONGITUDE: 39.837,8.430,8.170,7.987
+2024,Mooring Name: Kuruwitu | LATITUDE: -3.812 | LONGITUDE: 39.837,8.430,8.170,Custom code 05,Kuruwitu,Mooring Name: Kuruwitu | LATITUDE: -3.812 | LONGITUDE: 39.837,8.430,8.170,8.3
+2020,Mooring Name:  Malindi | LATITUDE: -3.23 | LONGITUDE: 40.14,7.983,7.814,Custom code 06,Malindi,Mooring Name: Malindi | LATITUDE: -3.235 | LONGITUDE: 40.137,8.350,8.180,7.894
+2021,Mooring Name: Malindi | LATITUDE: -3.235 | LONGITUDE: 40.137,8.104,7.946,Custom code 06,Malindi,Mooring Name: Malindi | LATITUDE: -3.235 | LONGITUDE: 40.137,8.350,8.180,8.024
+2022,Mooring Name: Malindi | LATITUDE: -3.235 | LONGITUDE: 40.137,8.04,7.721,Custom code 06,Malindi,Mooring Name: Malindi | LATITUDE: -3.235 | LONGITUDE: 40.137,8.350,8.180,7.888
+2023,Mooring Name: Malindi | LATITUDE: -3.230 | LONGITUDE: 40.137,8.03,7.92,Custom code 06,Malindi,Mooring Name: Malindi | LATITUDE: -3.235 | LONGITUDE: 40.137,8.350,8.180,7.99058
+2024,Mooring Name: Malindi | LATITUDE: -3.235 | LONGITUDE: 40.137,8.350,8.180,Custom code 06,Malindi,Mooring Name: Malindi | LATITUDE: -3.235 | LONGITUDE: 40.137,8.350,8.180,8.265
+2020,Mooring Name:  Nyali | LATITUDE: -4.06 | LONGITUDE: 39.72,7.903,7.894,Custom code 07,Nyali,Mooring Name:  Nyali | LATITUDE: -4.06 | LONGITUDE: 39.72,7.903,7.894,7.898
+2020,Mooring Name:  Shimoni | LATITUDE: -4.46 | LONGITUDE: 39.53,8.019,7.901,Custom code 08,Shimoni,Mooring Name: Shimoni | LATITUDE: -4.665 | LONGITUDE: 39.344,8.049,7.918,7.956
+2021,Mooring Name: Shimoni | LATITUDE: -4.665 | LONGITUDE: 39.344,8.049,7.918,Custom code 08,Shimoni,Mooring Name: Shimoni | LATITUDE: -4.665 | LONGITUDE: 39.344,8.049,7.918,7.997
+2021,Mooring Name: Kilifi | LATITUDE: -3.624 | LONGITUDE: 39.884,7.993,7.944,Custom code 09,Kilifi,Mooring Name: Kilifi | LATITUDE: -3.620 | LONGITUDE: 39.884,8.06667,7.36,7.963
+2022,Mooring Name: Kilifi | LATITUDE: -3.624 | LONGITUDE: 39.884,8.021,7.849,Custom code 09,Kilifi,Mooring Name: Kilifi | LATITUDE: -3.620 | LONGITUDE: 39.884,8.06667,7.36,7.918
+2023,Mooring Name: Kilifi | LATITUDE: -3.620 | LONGITUDE: 39.884,8.06667,7.36,Custom code 09,Kilifi,Mooring Name: Kilifi | LATITUDE: -3.620 | LONGITUDE: 39.884,8.06667,7.36,7.80111
+2021,Mooring Name: Lamu | LATITUDE: -2.217 | LONGITUDE: 40.979,7.989,7.95,Custom code 10,Lamu,Mooring Name: Lamu | LATITUDE: -2.217 | LONGITUDE: 40.979,7.989,7.95,7.97
+2021,Mooring Name: Mombasa | LATITUDE: -4.002 | LONGITUDE: 39.750,8.065,8.012,Custom code 11,Mombasa,Mooring Name: Mombasa | LATITUDE: -4.002 | LONGITUDE: 39.750,8.065,8.012,8.028
+2021,Mooring Name: Vanga | LATITUDE: -4.675 | LONGITUDE: 39.268,8.015,7.89,Custom code 12,Vanga,Mooring Name: Vanga | LATITUDE: -4.675 | LONGITUDE: 39.268,8.100,8.020,7.944
+2022,Mooring Name: Vanga | LATITUDE: -4.675 | LONGITUDE: 39.268,8.051,7.812,Custom code 12,Vanga,Mooring Name: Vanga | LATITUDE: -4.675 | LONGITUDE: 39.268,8.100,8.020,7.916
+2023,Mooring Name: Vanga  | LATITUDE: -4.680 | LONGITUDE: 39.268,8.00975,7.92667,Custom code 12,Vanga,Mooring Name: Vanga | LATITUDE: -4.675 | LONGITUDE: 39.268,8.100,8.020,7.96214
+2024,Mooring Name: Vanga | LATITUDE: -4.675 | LONGITUDE: 39.268,8.100,8.020,Custom code 12,Vanga,Mooring Name: Vanga | LATITUDE: -4.675 | LONGITUDE: 39.268,8.100,8.020,8.06
+2022,Mooring Name: Mombasa_Coral Garden | LATITUDE: -4.002 | LONGITUDE: 39.750,8.016,7.843,Custom code 13,Mombasa_Coral Garden,Mooring Name: Mombasa_Coral Garden | LATITUDE: -4.000 | LONGITUDE: 39.750,8.16,7.90606,7.929
+2023,Mooring Name: Mombasa_Coral Garden | LATITUDE: -4.000 | LONGITUDE: 39.750,8.16,7.90606,Custom code 13,Mombasa_Coral Garden,Mooring Name: Mombasa_Coral Garden | LATITUDE: -4.000 | LONGITUDE: 39.750,8.16,7.90606,8.03806
+2022,Mooring Name: Mombasa_Nyali | LATITUDE: -4.061 | LONGITUDE: 39.724,7.974,7.85,Custom code 14,Mombasa_Nyali,Mooring Name: Mombasa_Nyali | LATITUDE: -4.061 | LONGITUDE: 39.724,8.040,8.020,7.94
+2023,Mooring Name: Mombasa_Nyali | LATITUDE: -4.060 | LONGITUDE: 39.724,8.16,8.00333,Custom code 14,Mombasa_Nyali,Mooring Name: Mombasa_Nyali | LATITUDE: -4.061 | LONGITUDE: 39.724,8.040,8.020,8.08878
+2024,Mooring Name: Mombasa_Nyali | LATITUDE: -4.061 | LONGITUDE: 39.724,8.040,8.020,Custom code 14,Mombasa_Nyali,Mooring Name: Mombasa_Nyali | LATITUDE: -4.061 | LONGITUDE: 39.724,8.040,8.020,8.03
+2022,Mooring Name: Shimoni_Chanjale | LATITUDE: -4.668 | LONGITUDE: 39.344,8.023,7.925,Custom code 15,Shimoni_Chanjale,Mooring Name: Shimoni_Chanjale | LATITUDE: -4.668 | LONGITUDE: 39.344,8.160,8.010,7.959
+2023,Mooring Name: Shimoni_Chanjale | LATITUDE: -4.670 | LONGITUDE: 39.344,8.185,7.79,Custom code 15,Shimoni_Chanjale,Mooring Name: Shimoni_Chanjale | LATITUDE: -4.668 | LONGITUDE: 39.344,8.160,8.010,7.96722
+2024,Mooring Name: Shimoni_Chanjale | LATITUDE: -4.668 | LONGITUDE: 39.344,8.160,8.010,Custom code 15,Shimoni_Chanjale,Mooring Name: Shimoni_Chanjale | LATITUDE: -4.668 | LONGITUDE: 39.344,8.160,8.010,8.085
+2022,Mooring Name: Shimoni_Wasini | LATITUDE: -4.654 | LONGITUDE: 39.364,8.026,7.899,Custom code 16,Shimoni_Wasini,Mooring Name: Shimoni_Wasini | LATITUDE: -4.654 | LONGITUDE: 39.364,8.320,7.790,7.95
+2023,Mooring Name: Shimoni_Wasini | LATITUDE: -4.650 | LONGITUDE: 39.364,7.96,7.73,Custom code 16,Shimoni_Wasini,Mooring Name: Shimoni_Wasini | LATITUDE: -4.654 | LONGITUDE: 39.364,8.320,7.790,7.86556
+2024,Mooring Name: Shimoni_Wasini | LATITUDE: -4.654 | LONGITUDE: 39.364,8.320,7.790,Custom code 16,Shimoni_Wasini,Mooring Name: Shimoni_Wasini | LATITUDE: -4.654 | LONGITUDE: 39.364,8.320,7.790,8.055
+2024,Mooring Name: Lamu_Iweni | LATITUDE: -2.217 | LONGITUDE: 40.979,NaN,NaN,Custom code 17,Lamu_Iweni,Mooring Name: Lamu_Iweni | LATITUDE: -2.217 | LONGITUDE: 40.979,NaN,NaN,8.195

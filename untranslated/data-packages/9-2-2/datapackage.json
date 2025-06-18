@@ -12,7 +12,18 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Manufacturing employment as a proportion of total employment - 13th ICLS (%) [9.2.2]",
+                "Manufacturing employment as a proportion of total employment - 19th ICLS(%) [9.2.2]",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

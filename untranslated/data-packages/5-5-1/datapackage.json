@@ -12,7 +12,92 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Administrative data on 2017 election results provided by the National Statistical Office. Compiled by UNECA African Centre for Statistics and UN Women.",
+                "Inter-Parliamentary Union (IPU), the database on Women in National Parliament, accessed February 1 of given year for annual data.",
+                "Inter-Parliamentary Union (IPU), the database on Women in National Parliament, accessed January 1 of given year for annual data.",
+                "Inter-Parliamentary Union (IPU), Parline Database",
+                "Inter-Parliamentary Union (IPU), the database on Women in National Parliament, accessed Jan 1 of given year for annual data.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of elected seats held by women in deliberative bodies of local government [5.5.1]",
+                "Proportion of seats held by women in national parliaments (% of total number of seats) [5.5.1]",
+                "Number of seats held by women in national parliaments [5.5.1]",
+                "Current number of seats in national parliaments [5.5.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Administrative data on 2017 election results provided by the National Statistical Office. Compiled by UNECA African Centre for Statistics and UN Women.",
+                "Inter-Parliamentary Union (IPU), Parline Database",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Annual data as of 1 Feb of given year.",
+                "Data are as at 1 January of reporting year | single or lower chambers of national parliaments.",
+                "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year based on the number of seats filled in parliament at the time",
+                "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year, figures correspond to the number of seats filled in parliament at the given time.",
+                "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year based on the number of seats filled in parliament at the time",
+                "Lower Chamber or Unicameral, Data valid as of 1 Jan of given year, figures correspond to the number of seats filled in parliament at the given time.",
+                "Bicameral: Lower chamber (National Assembly), Data valid as of 1 Jan of given year",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

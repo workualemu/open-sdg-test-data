@@ -12,12 +12,74 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                "G",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The figures included here concern only verified cases of killing of human rights defenders, journalists and trade unionists between 1 Jan and 31 Dec 2023 (as of 31 March 2025). OHCHR does not yet collect data on the number of cases of kidnapping of human rights defenders, journalists and trade unionists.",
+                "The figures included here concern only verified cases of killing of human rights defenders, journalists and trade unionists between 1 Jan and 31 Dec 2024 (as of 31 March 2025). OHCHR does not yet collect data on the number of cases of kidnapping of human rights defenders, journalists and trade unionists.",
+                "The figures included here concern only verified cases of enforced disappearance of human rights defenders, journalists and trade unionists between 1 Jan and 31 Dec 2023 (as of 31 March 2024). OHCHR does not yet collect data on the number of cases of kidnapping of human rights defenders, journalists and trade unionists.",
+                "The figures included here concern only verified cases of enforced disappearance of human rights defenders, journalists and trade unionists between 1 Jan and 31 Dec 2024 (as of 31 March 2025). OHCHR does not yet collect data on the number of cases of kidnapping of human rights defenders, journalists and trade unionists.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Accredited National Human Rights Institution",
+                "OHCHR in collaboration with UNESCO and ILO ",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Countries with at least one verified case of killings of human rights defenders, journalists, and trade unionists (1 = YES, 0 = NO) [16.10.1]",
+                "Countries with at least one verified case of enforced disappearance of human rights defenders, journalists, and trade unionists (1 = YES, 0 = NO) [16.10.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "The figures included here concern only verified cases of killing of human rights defenders, journalists and trade unionists between 1 Jan and 31 Dec 2024 (as of 31 March 2025). OHCHR does not yet collect data on the number of cases of kidnapping of human rights defenders, journalists and trade unionists.",
+                "The figures included here concern only verified cases of enforced disappearance of human rights defenders, journalists and trade unionists between 1 Jan and 31 Dec 2024 (as of 31 March 2025). OHCHR does not yet collect data on the number of cases of kidnapping of human rights defenders, journalists and trade unionists.",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

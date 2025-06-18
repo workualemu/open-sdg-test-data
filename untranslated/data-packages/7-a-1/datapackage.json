@@ -12,7 +12,23 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "Composite breakdown",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Type of renewable technology: Bioenergy",
+                "Type of renewable technology: Geothermal energy",
+                "Type of renewable technology: Hydropower",
+                "Type of renewable technology: Marine energy",
+                "Type of renewable technology: Multiple renewables",
+                "Type of renewable technology: Solar energy",
+                "Type of renewable technology: Wind energy",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

@@ -12,12 +12,122 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "O",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                "6",
+                ""
+              ]
+            },
+            "title": "UNIT_MULT"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "_X",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3-year average of the period 2000-2002.",
+                "3-year average of the period 2001-2003.",
+                "3-year average of the period 2002-2004.",
+                "3-year average of the period 2003-2005.",
+                "3-year average of the period 2004-2006.",
+                "3-year average of the period 2005-2007.",
+                "3-year average of the period 2006-2008.",
+                "3-year average of the period 2007-2009.",
+                "3-year average of the period 2008-2010.",
+                "3-year average of the period 2009-2011.",
+                "3-year average of the period 2010-2012.",
+                "3-year average of the period 2011-2013.",
+                "3-year average of the period 2012-2014.",
+                "3-year average of the period 2013-2015.",
+                "3-year average of the period 2014-2016.",
+                "3-year average of the period 2015-2017.",
+                "3-year average of the period 2016-2018.",
+                "3-year average of the period 2017-2019.",
+                "3-year average of the period 2018-2020. Estimates are based on projected values.",
+                "3-year average of the period 2019-2021. Estimates are based on projected values.",
+                "3-year average of the period 2020-2022. Estimates are based on projected values.",
+                "3-year average of the period 2021-2023. Estimates are based on projected values.",
+                "NaN = A figure was not provided",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Food and Agriculture Organization of the United Nations (FAO)",
+                "NA",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of undernourishment [2.1.1]",
+                "Number of undernourish people [2.1.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Number",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string",
+            "title": "Unit multiplier"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

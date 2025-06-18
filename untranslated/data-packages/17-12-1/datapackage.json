@@ -12,7 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Average tariff applied by developed countries, most-favored nation status, by type of product (%)  [17.12.1]",
+                "Average tariff applied by developed countries, preferential status, by type of product (%)  [17.12.1]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Type of product",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Agriculture products",
+                "Arms",
+                "Clothing",
+                "Industrial products",
+                "Textiles",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

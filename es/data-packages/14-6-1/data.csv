@@ -1,1 +1,5 @@
-Year,Value
+Year,OBS_STATUS,NATURE,COMMENT_OBS,SOURCE_DETAIL,Value
+2018,O,_X,NaN = A figure was not provided,NA,NaN
+2020,A,C,Level of implementation: 1 lowest - 5 highest,Questionnaire on the implementation of the Code of Conduct for Responsible Fisheries - Country self-reporting,3
+2022,O,_X,NaN = A figure was not provided,NA,NaN
+2024,A,C,Level of implementation: 1 lowest - 5 highest,Questionnaire on the implementation of the Code of Conduct for Responsible Fisheries - Country self-reporting,3

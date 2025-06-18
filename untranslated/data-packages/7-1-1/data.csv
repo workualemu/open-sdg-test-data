@@ -1,1 +1,73 @@
-Year,Value
+Year,NATURE,Degree of urbanisation,Nature of data points,Value
+2000,M,,Country Data,15.2
+2001,M,,Country Data,17.0
+2002,M,,Country Data,18.9
+2003,C,,Country Data,16.0
+2004,M,,Country Data,22.6
+2005,M,,Country Data,24.5
+2006,M,,Country Data,26.4
+2007,M,,Country Data,28.3
+2008,M,,Country Data,30.3
+2009,C,,Country Data,23.0
+2010,C,,Country Data,19.2
+2011,M,,Country Data,36.2
+2012,M,,Country Data,38.1
+2013,M,,Country Data,40.1
+2014,C,,Country Data,36.0
+2015,C,,Country Data,41.6
+2016,C,,Country Data,53.1
+2017,M,,Country Data,55.8
+2018,M,,Country Data,61.2
+2019,C,,Country Data,69.7
+2020,M,,Country Data,71.5
+2021,M,,Country Data,76.5
+2022,C,,Country Data,76.0
+2023,C,,Country Data,76.156
+2000,M,Rural,Modeled,6.6
+2001,M,Rural,Modeled,8.3
+2002,M,Rural,Modeled,10.0
+2003,M,Rural,Modeled,6.9
+2004,M,Rural,Modeled,13.4
+2005,M,Rural,Modeled,15.1
+2006,M,Rural,Modeled,16.9
+2007,M,Rural,Modeled,18.6
+2008,M,Rural,Modeled,20.4
+2009,M,Rural,Modeled,10.1
+2010,M,Rural,Modeled,7.2
+2011,M,Rural,Modeled,25.7
+2012,M,Rural,Modeled,27.5
+2013,M,Rural,Modeled,29.3
+2014,M,Rural,Modeled,25.1
+2015,M,Rural,Modeled,29.0
+2016,M,Rural,Modeled,42.1
+2017,M,Rural,Modeled,45.8
+2018,M,Rural,Modeled,51.6
+2019,M,Rural,Modeled,61.7
+2020,M,Rural,Modeled,62.7
+2021,M,Rural,Modeled,68.2
+2022,M,Rural,Modeled,65.0
+2023,M,Rural,Modeled,67.85512
+2000,M,Urban,Modeled,49.9
+2001,M,Urban,Modeled,51.6
+2002,M,Urban,Modeled,53.3
+2003,C,Urban,Modeled,50.2
+2004,M,Urban,Modeled,56.7
+2005,M,Urban,Modeled,58.5
+2006,M,Urban,Modeled,60.2
+2007,M,Urban,Modeled,62.0
+2008,M,Urban,Modeled,63.8
+2009,C,Urban,Modeled,65.6
+2010,C,Urban,Modeled,58.2
+2011,M,Urban,Modeled,69.3
+2012,M,Urban,Modeled,71.1
+2013,M,Urban,Modeled,73.0
+2014,C,Urban,Modeled,68.4
+2015,C,Urban,Modeled,78.1
+2016,C,Urban,Modeled,84.3
+2017,M,Urban,Modeled,83.6
+2018,M,Urban,Modeled,87.2
+2019,C,Urban,Modeled,90.8
+2020,M,Urban,Modeled,94.1
+2021,M,Urban,Modeled,97.5
+2022,C,Urban,Modeled,98.0
+2023,M,Urban,Modeled,95.97463

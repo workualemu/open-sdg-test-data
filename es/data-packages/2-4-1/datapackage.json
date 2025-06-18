@@ -12,12 +12,131 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "O",
+                "E",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "C",
+                "_X",
+                "G",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Observation provided by the country",
+                "NaN = A figure was not provided",
+                "Observation obtained through an estimation using SDG 2.4.1 Proxy methodology",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Kenya National Bureau of Statistics",
+                "NA",
+                "Computed by FAO using as input country-level data from FAOSTAT. SDG 6.4.2 and SDG 8.3.1 reporting",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of agricultural land area that has achieved an acceptable or desirable level of variation in water availability [2.4.1]",
+                "Proportion of agricultural land area that has achieved an acceptable or desirable level of secure tenure rights to agricultural land [2.4.1]",
+                "[PROXY] Progress toward productive and sustainable agriculture, current status score [2.4.1]",
+                "[PROXY] Progress toward productive and sustainable agriculture, trend score [2.4.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Score",
+                ""
+              ]
+            },
+            "title": "Unit of measure"
+          },
+          {
+            "name": "Observation status",
+            "type": "string",
+            "title": "Observation status"
+          },
+          {
+            "name": "Nature of data points",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Not Available",
+                "Global monitoring data",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NaN = A figure was not provided",
+                "Observation obtained through an estimation using SDG 2.4.1 Proxy methodology",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NA",
+                "Computed by FAO using as input country-level data from FAOSTAT. SDG 6.4.2 and SDG 8.3.1 reporting",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]

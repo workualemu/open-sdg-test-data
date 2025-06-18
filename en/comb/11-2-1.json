@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":[2020,2020,2020,2020,2020,2020,2020,2020],"Custom Breakdown":["Custom code 01","Custom code 03","Custom code 04","Custom code 05","Custom code 06","Custom code 07","Custom code 08","Custom code 09"],"Label for custom breakdown":["Eldoret","Kisumu","Malaba","Meru","Mombasa","Nairobi","Nakuru","Nyeri"],"Value":[15.2,27.6,52.0,18.9,58.1,58.0,12.9,23.9]},"edges":{"From":["Custom Breakdown"],"To":["Label for custom breakdown"]}}

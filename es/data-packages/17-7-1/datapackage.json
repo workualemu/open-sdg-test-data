@@ -12,12 +12,50 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Año"
           },
           {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WESR / UN COMTRADE",
+                "World Environment Situation Room",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Amount of tracked exported Environmentally Sound Technologies [17.7.1]",
+                "Amount of tracked imported Environmentally Sound Technologies [17.7.1]",
+                "Amount of tracked re-exported Environmentally Sound Technologies [17.7.1]",
+                "Total trade of tracked Environmentally Sound Technologies [17.7.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "WESR / UN COMTRADE",
+                "World Environment Situation Room",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

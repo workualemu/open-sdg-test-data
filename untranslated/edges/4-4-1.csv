@@ -1,1 +1,6 @@
 From,To
+Composite breakdown,COMMENT_OBS
+COMMENT_OBS,Observation-level footnotes
+Composite breakdown,Sex
+Composite breakdown,Age
+Observation-level footnotes,Degree of urbanisation

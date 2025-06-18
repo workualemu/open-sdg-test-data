@@ -12,11 +12,344 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "A",
+                "O",
+                "E",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "0",
+                "3",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "CA",
+                "_X",
+                "G",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "3-year average of the period 2014-2016. For years when official national data are not available the values are integrated with FAO data or estimates.",
+                "3-year average of the period 2015-2017. For years when official national data are not available the values are integrated with FAO data or estimates.",
+                "3-year average of the period 2016-2018. For years when official national data are not available the values are integrated with FAO data or estimates.",
+                "3-year average of the period 2017-2019. For years when official national data are not available the values are integrated with FAO data or estimates.",
+                "3-year average of the period 2018-2020. For years when official national data are not available the values are integrated with FAO data or estimates.",
+                "3-year average of the period 2019-2021. For years when official national data are not available the values are integrated with FAO data or estimates.",
+                "3-year average of the period 2020-2022. For years when official national data are not available the values are integrated with FAO data or estimates.",
+                "3-year average of the period 2021-2023. For years when official national data are not available the values are integrated with FAO data or estimates.",
+                "NaN = A figure was not provided",
+                "3-year average of the period 2014-2016.",
+                "3-year average of the period 2015-2017.",
+                "3-year average of the period 2016-2018.",
+                "3-year average of the period 2017-2019.",
+                "3-year average of the period 2018-2020.",
+                "3-year average of the period 2019-2021.",
+                "3-year average of the period 2020-2022.",
+                "3-year average of the period 2021-2023.",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UPPER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "52.2",
+                "56.4",
+                "62.5",
+                "66",
+                "69.2",
+                "71.1",
+                "73.8",
+                "74.4",
+                "NaN",
+                "55.4",
+                "59.9",
+                "66.4",
+                "70.1",
+                "73.6",
+                "75.5",
+                "77.5",
+                "76.8",
+                "49.1",
+                "52.9",
+                "58.6",
+                "61.9",
+                "64.9",
+                "66.6",
+                "70.2",
+                "72",
+                "24483.1",
+                "26993.3",
+                "30577.3",
+                "32955.8",
+                "35281.7",
+                "36937.2",
+                "39130.4",
+                "40209.3",
+                "7697.7",
+                "8564.5",
+                "9787.1",
+                "10646.4",
+                "11507.8",
+                "12162.9",
+                "12859.1",
+                "13116.6",
+                "6629.7",
+                "7365",
+                "8403.5",
+                "9130.4",
+                "9858",
+                "10408.5",
+                "11274.3",
+                "11909.9",
+                "16",
+                "18.9",
+                "22.7",
+                "24.4",
+                "25.9",
+                "27.1",
+                "29",
+                "29.1",
+                "17.3",
+                "20.4",
+                "24.5",
+                "26.4",
+                "28.1",
+                "29.4",
+                "30.7",
+                "30.1",
+                "14.8",
+                "17.4",
+                "20.8",
+                "22.4",
+                "23.8",
+                "24.8",
+                "27.4",
+                "28",
+                "7512.5",
+                "9043",
+                "11084.7",
+                "12186.6",
+                "13217.4",
+                "14088.9",
+                "15388.4",
+                "15707",
+                "2406.2",
+                "2926.1",
+                "3618.7",
+                "4015.5",
+                "4398.2",
+                "4733.8",
+                "5092.6",
+                "5144.5",
+                "1993.5",
+                "2415.9",
+                "2978.8",
+                "3300.1",
+                "3609.4",
+                "3879.8",
+                "4401.1",
+                "4631.1",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "LOWER_BOUND",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "49.1",
+                "53.2",
+                "59.4",
+                "62.9",
+                "66.1",
+                "67.9",
+                "70.7",
+                "71.3",
+                "NaN",
+                "52.7",
+                "57.1",
+                "63.6",
+                "67.3",
+                "70.8",
+                "72.8",
+                "74.7",
+                "74",
+                "45.6",
+                "49.4",
+                "55.2",
+                "58.4",
+                "61.4",
+                "63.1",
+                "66.7",
+                "68.6",
+                "23021.2",
+                "25499",
+                "29050.8",
+                "31397.5",
+                "33691.8",
+                "35315.5",
+                "37476.8",
+                "38523.4",
+                "7316.8",
+                "8171.9",
+                "9382.6",
+                "10229.7",
+                "11078.7",
+                "11721",
+                "12397.6",
+                "12636.5",
+                "6157.3",
+                "6878.4",
+                "7902.3",
+                "8614.5",
+                "9327",
+                "9862.1",
+                "10718.4",
+                "11342.8",
+                "14",
+                "16.8",
+                "20.6",
+                "22.3",
+                "23.9",
+                "25",
+                "27",
+                "15.4",
+                "18.5",
+                "22.6",
+                "24.5",
+                "26.1",
+                "27.4",
+                "28.7",
+                "28.1",
+                "12.6",
+                "15.2",
+                "18.6",
+                "20.2",
+                "21.6",
+                "22.7",
+                "25.2",
+                "25.9",
+                "6543.2",
+                "8052.2",
+                "10072.5",
+                "11153.4",
+                "12163.2",
+                "13013.7",
+                "14292",
+                "14589.1",
+                "2133.3",
+                "2644.7",
+                "3328.8",
+                "3716.9",
+                "4090.6",
+                "4417.1",
+                "4761",
+                "4806.6",
+                "1700.1",
+                "2113.7",
+                "2667.5",
+                "2979.7",
+                "3279.7",
+                "3540.6",
+                "4057.2",
+                "4274",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National Entity",
+                "NA",
+                "Food and Agriculture Organization of the United Nations (FAO)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Prevalence of moderate or severe food insecurity in the population [2.1.2]",
+                "Population in moderate or severe food insecurity (number) [2.1.2]",
+                "Prevalence of severe food insecurity in the population [2.1.2]",
+                "Population in severe food insecurity (number) [2.1.2]",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Sex",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Female",
+                "Male",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Age",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 years old and over",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit of measure",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Percent",
+                "Number",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Unit multiplier",
+            "type": "string"
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "string"
           }
         ]
       }

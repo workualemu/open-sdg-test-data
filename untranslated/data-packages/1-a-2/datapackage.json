@@ -12,7 +12,32 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Budgetary Central Government Sector",
+                "General Government Sector",
+                "Central Government Sector (incl. social security funds)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of total government spending on essential services, education [1.a.2]",
+                "Proportion of total government spending on essential services [1.a.2]",
+                "Proportion of total government spending on essential services, health [1.a.2]",
+                "Proportion of total government spending on essential services, social protection [1.a.2]",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

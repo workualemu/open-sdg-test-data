@@ -12,12 +12,104 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "O",
+                "A",
+                ""
+              ]
+            },
+            "title": "OBS_STATUS"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "E",
+                "_X",
+                "C",
+                ""
+              ]
+            },
+            "title": "NATURE"
+          },
+          {
+            "name": "SOURCE_DETAIL",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ministry of Livestock Development",
+                "NA",
+                "FAO-WIEWS (http://www.fao.org/wiews)",
+                ""
+              ]
+            },
+            "title": "SOURCE_DETAIL"
+          },
+          {
+            "name": "SDG Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of local breeds kept in the country [2.5.1]",
+                "Number of transboundary breeds (including extinct ones) [2.5.1]",
+                "Number of local breeds for which sufficient genetic resources are stored for reconstitution [2.5.1]",
+                "Number of transboundary breeds for which sufficient genetic resources are stored for reconstitution [2.5.1]",
+                "Plant genetic resources accessions stored ex situ (number) [2.5.1]",
+                ""
+              ]
+            },
+            "title": "SDG Series"
+          },
+          {
+            "name": "Source details",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Ministry of Livestock Development",
+                "FAO-WIEWS (http://www.fao.org/wiews)",
+                ""
+              ]
+            },
+            "title": "Source details"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NaN = A figure was not provided",
+                "Estimate based on the acquisition date of each conserved accession as reported in 2014.",
+                "Estimate based on 2016 report.",
+                "Estimate based on 2019 report.",
+                ""
+              ]
+            },
+            "title": "COMMENT_OBS"
+          },
+          {
+            "name": "Observation-level footnotes",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NaN = A figure was not provided",
+                "Estimate based on 2019 report.",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "string",
             "title": "Value"
           }
         ]
