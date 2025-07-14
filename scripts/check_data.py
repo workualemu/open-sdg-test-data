@@ -1,8 +1,10 @@
 from sdg.open_sdg import open_sdg_check
-# from sdg.inputs import InputSdmxMl_UnitedNationsApi as uapi
+from sdg.inputs import InputSdmxMl_UnitedNationsApi as uapi
 
+qur = "API QUERY"
+print("QUERYYYYYYYYYY: " + qur)
 print("Popup: Do something important now.")
-input("Press Enter to continue...")
+
 
 # uapi_object = uapi(reference_area='800')
 # qur = uapi_object.get_api_query()
