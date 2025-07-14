@@ -40,7 +40,7 @@ src_dir: ''
 # The defaults below show what is used when this is omitted.
 inputs:
   - class: InputSdmxMl_UnitedNationsApi
-    reference_area: 404
+    reference_area: 800
     dimension_query: 
       REPORTING_TYPE: N
   # - class: InputCsvData
